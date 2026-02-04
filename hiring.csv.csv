@@ -1,0 +1,1001 @@
+CandidateID,ApplicationDate,Position,Source,Status,InterviewDate,OfferDate,HiredDate,RejectedDate,Recruiter,TimeToHire,OfferAccepted,HireCost,PerformanceRating,CandidateNPS,RecruitmentSiteVisits,SocialMentions
+acc0fb16-2f91-49f8-b8d2-05b5f6edfc3d,02-03-2024,Product Manager,Referral,Offer Made,04-12-2024,4/19/2024,,,John Doe,,No,,,7,4766,119
+3e4f454d-372f-45a5-812d-73602a516f5e,07-01-2024,Data Analyst,Company Website,Under Review,,,,,Jane Smith,,No,,,6,2233,382
+b10ffcc5-f5c9-4eba-b430-8311d3973972,2/21/2024,Data Analyst,LinkedIn,Offer Made,04-06-2024,6/24/2024,,,Michael Johnson,,No,,,5,1102,94
+e0cbc1fd-0c35-47bf-990f-9ac7fddd77a4,03-03-2024,Product Manager,Company Website,Offer Made,3/20/2024,07-05-2024,,,Emily Brown,,No,,,10,248,365
+110cb9ac-6857-4327-9204-f3eb5b3f408e,4/24/2024,Data Analyst,LinkedIn,Under Review,,,,,Emily Brown,,No,,,6,3250,323
+c46d3a1a-5596-4a97-9ea3-39bce267881d,02-01-2024,Business Analyst,Referral,Application Received,,,,,John Doe,,No,,,1,8488,327
+716f0778-b5dc-4fe7-91b0-cf8034ffd982,03-06-2024,Software Engineer,Referral,Application Received,,,,,John Doe,,No,,,3,5184,30
+07eef550-90c4-4731-8ffc-3c3fd5c69f8b,07-05-2024,UX Designer,Indeed,Interview Scheduled,07-12-2024,,,,Emily Brown,,No,,,3,1210,223
+d62103c8-16f5-4950-bfeb-c80c40898443,5/22/2024,Business Analyst,Referral,Offer Made,6/28/2024,6/29/2024,,,Emily Brown,,No,,,6,4634,50
+8e047f65-9ebb-41a6-9a36-b3059d0d1002,2/28/2024,Business Analyst,CareerBuilder,Offer Made,5/31/2024,07-10-2024,,,Jane Smith,,No,,,2,8651,401
+a74a1dd9-087e-4bed-9ced-3864ca186d82,06-04-2024,Software Engineer,Company Website,Application Received,,,,,Emily Brown,,No,,,0,1372,139
+fa201eb3-a4cc-4ad0-818d-5b63518ccaeb,05-10-2024,Data Analyst,CareerBuilder,Interview Scheduled,5/19/2024,,,,Jane Smith,,No,,,7,2186,198
+44f39c3e-d4fb-4a64-9065-4d61aa8230bf,2/14/2024,Data Analyst,Referral,Interview Scheduled,03-07-2024,,,,Jane Smith,,No,,,1,6658,140
+9c12c68a-a682-464c-9102-974da1bc17c6,02-04-2024,Data Analyst,Company Website,Offer Made,7/14/2024,7/14/2024,,,Jane Smith,,No,,,0,1946,64
+a2e82762-ede0-4002-9702-22e6b419643a,01-05-2024,Software Engineer,Company Website,Interview Scheduled,3/22/2024,,,,Jane Smith,,No,,,9,9838,401
+650fff1e-8473-4ad1-a734-05641865b600,01-01-2024,Business Analyst,Company Website,Under Review,,,,,Jane Smith,,No,,,5,3024,479
+8b346c6e-0ce8-4e88-b7e7-6541a48dfd3d,06-05-2024,Business Analyst,Company Website,Interview Scheduled,6/14/2024,,,,Michael Johnson,,No,,,9,7951,333
+d0082c00-0a44-4da1-bb64-4afd6e3c0525,05-04-2024,Business Analyst,LinkedIn,Under Review,,,,,Emily Brown,,No,,,2,6243,371
+5bca9949-e3e8-4c04-a12c-2ec41559e11f,03-01-2024,Product Manager,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,7,4604,323
+3fde4314-a0b2-4479-b00b-ed19a2afd755,6/24/2024,UX Designer,Company Website,Interview Scheduled,07-08-2024,,,,Jane Smith,,No,,,7,6351,91
+a5bd2a1b-822e-4753-a3dc-6cb773a13692,4/24/2024,Software Engineer,LinkedIn,Offer Made,6/20/2024,7/13/2024,,,Jane Smith,,No,,,5,6364,263
+1fac5b94-a7b8-4334-a503-7e8645289b23,01-06-2024,Software Engineer,CareerBuilder,Rejected,4/23/2024,,,5/26/2024,John Doe,,No,,,7,2779,475
+9ba40afb-14a3-4be3-b067-a0691f538315,6/17/2024,Product Manager,Indeed,Interview Scheduled,6/23/2024,,,,John Doe,,No,,,6,4299,63
+5ca76b53-7011-4a34-a2e4-ae7244ab48a5,2/28/2024,Data Analyst,CareerBuilder,Application Received,,,,,John Doe,,No,,,6,9333,298
+fb0f7d56-1163-4a6f-a15c-01b7cc0dbe5b,5/17/2024,Product Manager,CareerBuilder,Offer Made,6/17/2024,07-11-2024,,,John Doe,,No,,,4,7978,399
+65632d53-f048-4800-a1be-635a93c00782,1/16/2024,UX Designer,Company Website,Under Review,,,,,Michael Johnson,,No,,,10,160,21
+711c5ee2-45fc-407b-a009-0c788374b655,1/20/2024,Software Engineer,Referral,Offer Made,6/29/2024,07-02-2024,,,Jane Smith,,No,,,0,1252,233
+762ae16b-f6c6-49be-9e1d-1e0686f1675e,1/18/2024,Software Engineer,Referral,Application Received,,,,,Emily Brown,,No,,,5,5997,11
+e843ac72-77d9-4e6f-bdc4-3c3875948e56,1/29/2024,UX Designer,Indeed,Interview Scheduled,3/23/2024,,,,Emily Brown,,No,,,1,8672,234
+8b1ce215-d163-4f0b-ae15-0e7d08666108,4/17/2024,Data Analyst,Indeed,Offer Made,4/30/2024,6/26/2024,,,Jane Smith,,No,,,6,574,107
+efab7277-8b02-492d-baba-e590b50cf3b9,1/29/2024,Business Analyst,CareerBuilder,Rejected,3/22/2024,,,04-04-2024,Michael Johnson,,No,,,6,3666,220
+7a78445d-f53c-443a-bb8a-505daed1334a,4/16/2024,UX Designer,Indeed,Under Review,,,,,John Doe,,No,,,10,340,139
+f24580af-b053-42a2-8507-3da6fbf41b24,05-07-2024,UX Designer,Indeed,Offer Made,06-08-2024,6/28/2024,,,Emily Brown,,No,,,2,7779,383
+7efe9471-7612-4d97-9fda-3090eb289f15,03-05-2024,Business Analyst,CareerBuilder,Under Review,,,,,John Doe,,No,,,0,1326,63
+8a02babd-3879-4702-bec7-ddaf8dc3f9af,04-06-2024,UX Designer,Referral,Application Received,,,,,Emily Brown,,No,,,5,1764,227
+cd991c2c-21ce-4dbe-9838-f8b0874bd1c9,03-06-2024,UX Designer,Referral,Hired,5/26/2024,6/27/2024,7/13/2024,,John Doe,129,Yes,1885.79,1,5,4224,145
+6e3bdf65-8d79-4408-ba46-0aa47675c316,3/14/2024,Data Analyst,Company Website,Under Review,,,,,Emily Brown,,No,,,0,343,144
+43ffb516-48ba-4357-b5c8-a9da99fd113c,3/26/2024,Business Analyst,LinkedIn,Interview Scheduled,4/22/2024,,,,Emily Brown,,No,,,1,1876,59
+e3d09fcf-6fd1-4c57-83af-67e1afa1363f,06-11-2024,UX Designer,Indeed,Application Received,,,,,Jane Smith,,No,,,8,1565,462
+b2614be3-27e9-4559-8158-69fd4364ac06,3/14/2024,UX Designer,LinkedIn,Hired,3/18/2024,5/17/2024,07-03-2024,,Michael Johnson,111,Yes,627.29,3,7,7228,205
+1a212bea-ee59-42af-9977-a2ec4092c4b7,01-12-2024,Software Engineer,Indeed,Under Review,,,,,Michael Johnson,,No,,,3,8200,286
+2e62503a-f171-4794-8b23-b17a340cbcaf,5/28/2024,Software Engineer,Indeed,Application Received,,,,,Michael Johnson,,No,,,6,6361,292
+a3f5c0e7-0d74-42a8-91c1-1917bd4a2c1d,1/26/2024,Software Engineer,Company Website,Application Received,,,,,Emily Brown,,No,,,10,4698,205
+173734d8-6d8a-4f12-aba7-a20389249f18,05-07-2024,Product Manager,Referral,Under Review,,,,,Emily Brown,,No,,,4,7026,268
+7e36b1a1-3c2b-4971-a434-6d3fec156b7a,6/20/2024,Software Engineer,Referral,Offer Made,07-01-2024,7/14/2024,,,John Doe,,No,,,10,6572,450
+53139167-ba51-425f-afd7-a4d94da78d75,06-02-2024,Software Engineer,Indeed,Application Received,,,,,Jane Smith,,No,,,0,6917,367
+916be830-a95a-4b0d-a6bd-ad582a431012,05-09-2024,UX Designer,Indeed,Application Received,,,,,John Doe,,No,,,6,959,219
+6c32dba8-4946-424d-9f20-e05a2c32dd64,05-06-2024,Business Analyst,CareerBuilder,Interview Scheduled,06-08-2024,,,,Jane Smith,,No,,,10,5698,350
+6d213b34-c359-4812-9107-d18aec4721de,3/22/2024,UX Designer,Indeed,Offer Made,07-11-2024,7/13/2024,,,Michael Johnson,,No,,,4,8479,365
+f852e34a-cbc4-40b9-a502-bf0d474f5985,5/25/2024,Data Analyst,CareerBuilder,Under Review,,,,,John Doe,,No,,,8,2225,144
+4c9c690f-f115-4c88-9db2-8957e79abade,3/31/2024,Software Engineer,Indeed,Interview Scheduled,7/14/2024,,,,Jane Smith,,No,,,10,8670,325
+9b330625-0d16-4d7a-9ee0-706c89b0d91c,1/28/2024,Business Analyst,Referral,Rejected,07-05-2024,,,07-11-2024,Emily Brown,,No,,,10,6146,414
+379b3175-0d97-4433-b02a-08a105739c2e,03-01-2024,Product Manager,Company Website,Application Received,,,,,Emily Brown,,No,,,10,2452,436
+4d38db85-f9ce-4479-ae98-3392e0a4eff5,4/17/2024,Software Engineer,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,9,5428,74
+03b491b7-0c09-4a37-8df0-4f6c2e7a5d5d,5/15/2024,Business Analyst,Referral,Under Review,,,,,Emily Brown,,No,,,3,5783,214
+58e34436-7094-409f-999a-aefcf561bd00,03-01-2024,Data Analyst,Referral,Hired,3/14/2024,6/29/2024,7/14/2024,,Emily Brown,135,Yes,2283.19,5,2,5676,483
+fda375da-e9a7-46a7-930c-f1800533dba3,03-10-2024,Product Manager,Referral,Hired,6/24/2024,07-07-2024,07-07-2024,,Jane Smith,119,Yes,4187.3,5,9,8813,335
+f4b766b8-007c-41e4-a8ce-225965f2dc2c,6/20/2024,Software Engineer,LinkedIn,Under Review,,,,,Michael Johnson,,No,,,6,8309,104
+a74e458f-f633-4911-954a-16537538bb29,03-10-2024,Business Analyst,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,9,5240,158
+6f45046f-b85e-4537-850b-5a91c68aa389,04-05-2024,Software Engineer,Indeed,Application Received,,,,,Jane Smith,,No,,,1,5928,278
+228fe03b-e548-4611-b476-a39e560de3c0,1/15/2024,Software Engineer,LinkedIn,Application Received,,,,,Emily Brown,,No,,,9,4950,141
+1249510f-df0b-4d6d-b026-1ab4cf102d41,02-01-2024,Product Manager,LinkedIn,Hired,07-03-2024,07-12-2024,7/15/2024,,Michael Johnson,165,Yes,2131.42,4,7,839,329
+ca94224f-270c-4c67-bccd-8554cd77b9cb,2/22/2024,Business Analyst,Company Website,Offer Made,7/13/2024,7/14/2024,,,Michael Johnson,,No,,,3,1704,479
+ed8bd90e-1ecb-498d-a68e-7aa23f32f755,1/18/2024,Data Analyst,Company Website,Hired,6/20/2024,6/24/2024,07-03-2024,,Michael Johnson,167,Yes,3322.94,2,9,1059,83
+c24f9f31-8f54-417a-b099-45ff30590e25,5/14/2024,Software Engineer,CareerBuilder,Offer Made,6/14/2024,07-03-2024,,,Jane Smith,,No,,,4,2306,22
+ab617d56-2f18-45f1-af08-07b075e35e50,3/21/2024,Data Analyst,LinkedIn,Offer Made,3/25/2024,06-10-2024,,,Emily Brown,,No,,,3,5627,338
+1e251284-d947-49a2-8af1-f788fccc6b1a,1/14/2024,Software Engineer,CareerBuilder,Application Received,,,,,John Doe,,No,,,1,9372,301
+143c73e1-cf3e-4994-be73-a1c118f41af2,02-06-2024,Software Engineer,Indeed,Hired,4/28/2024,07-07-2024,07-07-2024,,Michael Johnson,152,Yes,2209.29,3,7,4067,476
+9bb75899-4ecb-4fce-a75b-a8873de399f8,1/21/2024,Business Analyst,Company Website,Under Review,,,,,Michael Johnson,,No,,,9,5927,261
+5b8eb01a-2370-4655-8af2-a67d0baa4dfc,1/19/2024,Business Analyst,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,7,1505,474
+2f82c9ae-70be-4c08-8e0f-5f55d03ae4fd,06-11-2024,Product Manager,Indeed,Hired,07-10-2024,7/13/2024,7/13/2024,,Jane Smith,32,Yes,2928.23,2,8,2989,406
+f2e0a7a2-d6f2-4dd6-879a-6bf726a6ddf1,02-10-2024,Business Analyst,Indeed,Interview Scheduled,2/27/2024,,,,John Doe,,No,,,1,4322,209
+0cc4cb61-ed0b-4e1c-8264-298cb4dfb6ee,02-12-2024,UX Designer,Company Website,Application Received,,,,,Emily Brown,,No,,,9,2227,276
+0409997a-6f5c-48ef-a095-b54ca5e43d3c,02-11-2024,Product Manager,CareerBuilder,Under Review,,,,,John Doe,,No,,,7,1519,161
+1799802e-27cb-4e09-b4c3-052ea1daa41d,02-04-2024,Software Engineer,LinkedIn,Under Review,,,,,John Doe,,No,,,8,2288,392
+2ac20a82-504b-42ed-b024-7f007665dff1,01-01-2024,UX Designer,LinkedIn,Interview Scheduled,07-05-2024,,,,Jane Smith,,No,,,2,8400,402
+f5647aee-6d00-4e25-922a-4c4fd120c588,6/27/2024,Product Manager,Company Website,Application Received,,,,,Jane Smith,,No,,,7,4729,160
+caae8bb0-819c-47e6-8ab9-9832a3663445,1/20/2024,Business Analyst,Company Website,Hired,04-01-2024,5/13/2024,06-12-2024,,Jane Smith,144,Yes,4133.3,3,1,3330,438
+a3891169-e418-43c3-af8d-0bd949f6fc59,4/28/2024,Software Engineer,Referral,Application Received,,,,,Emily Brown,,No,,,6,4013,256
+6d5eb70d-c469-4a45-9d0f-9af11c1bdc35,03-07-2024,Data Analyst,Company Website,Under Review,,,,,John Doe,,No,,,3,5158,199
+8bb4a663-7d3c-41ba-b25d-02f957462a5f,04-03-2024,Product Manager,CareerBuilder,Application Received,,,,,John Doe,,No,,,1,9326,79
+a81a11e8-10bf-4655-851f-c0d943df9c64,03-08-2024,UX Designer,Company Website,Application Received,,,,,Emily Brown,,No,,,2,1968,244
+689906b6-a475-4ae5-92e2-71f242adeeee,07-02-2024,Data Analyst,CareerBuilder,Interview Scheduled,7/13/2024,,,,John Doe,,No,,,9,9582,82
+a964e49b-58c0-4cd4-b98c-462224c17b77,01-08-2024,Data Analyst,Referral,Offer Made,2/20/2024,2/21/2024,,,Michael Johnson,,No,,,3,8844,406
+76c0c5e8-f49f-4e89-8b5b-47e5f4786347,3/23/2024,Product Manager,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,0,1651,237
+af842f38-e7f6-4ca6-82d9-8f11259dfbda,2/27/2024,Data Analyst,Company Website,Under Review,,,,,Jane Smith,,No,,,7,3846,268
+6e3345d8-3070-41fc-819b-fe8d425a7449,5/16/2024,Business Analyst,Company Website,Hired,6/15/2024,07-04-2024,07-11-2024,,John Doe,56,Yes,922.51,2,2,7620,413
+61b0b7d0-7fa3-494b-92a7-062d98636be9,03-07-2024,UX Designer,Company Website,Offer Made,05-03-2024,6/20/2024,,,John Doe,,No,,,10,5083,424
+f3e6cea9-9062-4b7f-a7be-bd2b41930f71,06-05-2024,Data Analyst,Company Website,Application Received,,,,,Jane Smith,,No,,,3,8313,466
+7c4c05f1-6c87-4728-ae6d-d5af13225ed0,03-04-2024,UX Designer,CareerBuilder,Hired,4/19/2024,7/15/2024,7/15/2024,,John Doe,133,Yes,4649.73,3,8,5216,496
+f692e0cf-fc7b-4989-b093-119f32c9dd12,4/15/2024,Product Manager,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,10,6338,436
+30536489-1ab3-4d7c-8613-01290cf60a94,05-12-2024,UX Designer,LinkedIn,Under Review,,,,,Emily Brown,,No,,,6,991,191
+6701b909-bb21-4046-ae51-71d0fe5e2840,05-12-2024,Product Manager,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,4,468,122
+0ccaa63e-f344-43ad-bce7-5c37cf3f5bcb,02-07-2024,Product Manager,Referral,Offer Made,07-09-2024,07-11-2024,,,Jane Smith,,No,,,4,9804,437
+6b233b70-add9-43c4-8b80-3d06fe74f961,6/16/2024,Product Manager,LinkedIn,Offer Made,6/17/2024,07-11-2024,,,Emily Brown,,No,,,0,8607,350
+b7cd830e-6ebc-4d34-81c3-aba81c19e450,03-05-2024,Data Analyst,LinkedIn,Rejected,03-05-2024,,,5/23/2024,Emily Brown,,No,,,0,194,295
+16cee801-1be5-4406-ae18-99681d164de4,6/30/2024,Data Analyst,Company Website,Application Received,,,,,John Doe,,No,,,10,8851,493
+54c02113-4750-4dd8-a5ae-6ed7e04ea7f3,07-06-2024,UX Designer,Indeed,Offer Made,7/14/2024,7/14/2024,,,John Doe,,No,,,5,9271,311
+c6267eee-d5ef-4ceb-a079-6a634b6c7d83,03-08-2024,Business Analyst,CareerBuilder,Application Received,,,,,John Doe,,No,,,6,7071,117
+fe9c9220-115d-4921-ad77-6ea2848b0206,01-10-2024,Data Analyst,Referral,Interview Scheduled,06-12-2024,,,,Jane Smith,,No,,,2,7046,203
+38d66cb3-210f-406a-9b10-d5f5d1a6fd29,6/29/2024,Software Engineer,Company Website,Offer Made,7/15/2024,7/15/2024,,,Michael Johnson,,No,,,10,9031,473
+11276e0f-21c9-478b-88ee-b1ace6788d4e,03-02-2024,Software Engineer,Indeed,Application Received,,,,,Emily Brown,,No,,,0,7932,94
+1b79587f-98a6-4d49-8e9d-b1e785ea08e1,4/17/2024,Product Manager,LinkedIn,Under Review,,,,,John Doe,,No,,,6,8233,19
+3c97cbec-ecf9-47aa-8e2b-c073c68a1bd7,3/22/2024,Product Manager,LinkedIn,Application Received,,,,,John Doe,,No,,,7,1786,356
+6ac19011-9659-4e74-b85e-c7baf1a3eea5,05-02-2024,Software Engineer,LinkedIn,Interview Scheduled,06-02-2024,,,,Emily Brown,,No,,,0,4236,121
+4db26a8d-4cd3-4c91-8c48-babc2f6af5a2,3/18/2024,Software Engineer,Company Website,Interview Scheduled,5/18/2024,,,,Jane Smith,,No,,,1,5262,20
+f635f2c1-aec1-4b46-82e8-bb3be161f57b,7/14/2024,Business Analyst,CareerBuilder,Interview Scheduled,7/14/2024,,,,John Doe,,No,,,0,7255,150
+5412a4d5-c7e8-4e72-b789-2215ea54fa6a,6/28/2024,Software Engineer,Referral,Application Received,,,,,Emily Brown,,No,,,6,7577,180
+b3a4a212-e350-4ae8-8f99-71da690b397d,04-12-2024,Data Analyst,LinkedIn,Under Review,,,,,Emily Brown,,No,,,2,7822,405
+61f8b3d4-54f9-40d3-92f3-6e3c5b0b3b38,1/27/2024,Business Analyst,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,5,2098,131
+4c620e74-2b74-46b7-84f4-b635d453a3a5,04-04-2024,Business Analyst,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,5,2951,244
+468ccc1b-97c4-4e5e-8969-b2ad332579f7,3/24/2024,UX Designer,Company Website,Application Received,,,,,Jane Smith,,No,,,10,3358,208
+aa4edb9e-8092-419f-8d9e-4f937f631938,6/21/2024,Data Analyst,CareerBuilder,Application Received,,,,,John Doe,,No,,,1,5954,490
+b0fc7b5b-2adf-430f-9c19-7acd4c1d7e2f,1/22/2024,Product Manager,Company Website,Offer Made,2/21/2024,04-06-2024,,,John Doe,,No,,,7,3080,33
+3c1eefcb-1c95-40d3-9f1a-1e1fb09dd6f8,06-06-2024,Business Analyst,CareerBuilder,Offer Made,6/28/2024,07-06-2024,,,John Doe,,No,,,1,7368,278
+5027688f-8931-4506-91fe-16d98df24c91,5/22/2024,Business Analyst,Indeed,Offer Made,5/26/2024,06-09-2024,,,Jane Smith,,No,,,0,3038,100
+ff4746a3-d1ce-4c8f-8a86-769e668568af,6/22/2024,UX Designer,LinkedIn,Application Received,,,,,Emily Brown,,No,,,3,9224,443
+51b3051b-fd39-4b25-a272-0ad01a50f6d5,2/16/2024,Product Manager,Company Website,Offer Made,05-08-2024,6/24/2024,,,Emily Brown,,No,,,5,6253,322
+b5e44c15-31be-4f0d-b4aa-a195038897a6,2/18/2024,UX Designer,CareerBuilder,Interview Scheduled,06-08-2024,,,,Michael Johnson,,No,,,4,1838,423
+6401a398-96b3-478d-b3df-3d40f495ee98,03-06-2024,Software Engineer,Indeed,Under Review,,,,,Emily Brown,,No,,,6,9669,389
+cbfe29fd-c333-4626-9254-abbc741e5c04,01-04-2024,UX Designer,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,4,5517,123
+a69e9ada-e5c1-41cd-967e-e8a9c841a131,3/19/2024,Product Manager,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,0,470,253
+aa017cfd-c775-41a3-9b2a-417abac4eb4a,6/30/2024,UX Designer,CareerBuilder,Application Received,,,,,John Doe,,No,,,5,6075,434
+799a0b55-20f8-4bf4-9474-e0d53768ee53,5/22/2024,Data Analyst,LinkedIn,Under Review,,,,,Michael Johnson,,No,,,7,647,360
+5c645dfa-dea6-4a49-b549-7c824a508e2d,06-12-2024,Business Analyst,CareerBuilder,Interview Scheduled,07-07-2024,,,,Emily Brown,,No,,,0,3916,363
+b0328bf9-c949-4816-9610-66d7244c68b8,06-05-2024,Business Analyst,Company Website,Under Review,,,,,Emily Brown,,No,,,1,9157,224
+712acf85-7379-4c2d-aa73-2a73d3edf010,2/21/2024,Business Analyst,Company Website,Application Received,,,,,Emily Brown,,No,,,6,6170,376
+680d69f9-0bb6-41ba-bfd8-393d018c550e,03-05-2024,Product Manager,Referral,Application Received,,,,,John Doe,,No,,,5,9699,108
+81b6c0ae-9cc9-469b-896c-78e339537eba,05-04-2024,Business Analyst,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,7,4529,161
+38a98754-a355-41c8-8740-2df747fddc66,4/26/2024,Business Analyst,Indeed,Rejected,07-03-2024,,,07-03-2024,John Doe,,No,,,10,9453,414
+d4ea1b82-86fe-4798-a51c-cffe9f503db9,1/27/2024,UX Designer,LinkedIn,Offer Made,02-06-2024,2/17/2024,,,Jane Smith,,No,,,7,1372,104
+3cbfce17-bf75-47be-9d5a-9a83e116ecf4,06-06-2024,Product Manager,CareerBuilder,Interview Scheduled,6/15/2024,,,,John Doe,,No,,,10,2982,499
+b1f68f40-62e7-420b-be43-9d66ce45b64a,6/13/2024,Product Manager,Referral,Application Received,,,,,John Doe,,No,,,5,3572,264
+232aeaf6-116d-4826-ad6a-3af16f933e62,1/14/2024,UX Designer,CareerBuilder,Interview Scheduled,1/17/2024,,,,John Doe,,No,,,0,3977,93
+53da79b8-0fcd-4202-b7d0-e969b1fa45f0,2/25/2024,Data Analyst,LinkedIn,Interview Scheduled,6/17/2024,,,,Emily Brown,,No,,,6,5495,445
+bb289408-f051-43c5-8d43-86950ebb49c5,4/21/2024,Software Engineer,Referral,Offer Made,5/28/2024,06-01-2024,,,John Doe,,No,,,3,975,59
+29ae526b-4f14-4e66-8758-48d447b5f6a7,02-09-2024,Product Manager,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,3,3435,254
+4dc10c61-c891-468d-95b4-f9b002426818,4/21/2024,Software Engineer,Company Website,Interview Scheduled,5/13/2024,,,,Michael Johnson,,No,,,4,8130,232
+4915ccb9-502c-4f49-8886-313f826ac6a7,2/29/2024,Software Engineer,CareerBuilder,Under Review,,,,,Emily Brown,,No,,,7,6047,120
+99dc8b45-dbac-4517-ad71-b7d9a3b67f0a,07-07-2024,Product Manager,Referral,Under Review,,,,,John Doe,,No,,,7,7219,475
+3b5acf82-0bb2-4e50-be74-9fe02f1f4527,05-04-2024,Business Analyst,Indeed,Interview Scheduled,5/18/2024,,,,Jane Smith,,No,,,6,3314,93
+ef7eec2f-50a3-4908-9235-62cff405e588,6/26/2024,Software Engineer,CareerBuilder,Application Received,,,,,John Doe,,No,,,7,6305,394
+5706fa4f-bab6-4a5e-889a-beb25878e761,4/17/2024,UX Designer,Company Website,Under Review,,,,,Jane Smith,,No,,,2,368,292
+dc64972a-aec8-4078-915b-cc33a5206ba2,4/13/2024,Data Analyst,CareerBuilder,Under Review,,,,,Emily Brown,,No,,,10,3586,132
+2ccf9410-8693-4dd5-92ee-7c1124ac1e9f,07-01-2024,Business Analyst,CareerBuilder,Interview Scheduled,7/13/2024,,,,Jane Smith,,No,,,7,9476,129
+cc0fc8d2-00ef-45be-8e29-78d046c14fc5,07-06-2024,Product Manager,Referral,Interview Scheduled,7/13/2024,,,,Jane Smith,,No,,,5,2841,227
+07d89c27-1bcf-4936-95af-72bee8465654,4/27/2024,Data Analyst,Indeed,Application Received,,,,,Jane Smith,,No,,,3,6674,97
+4a779245-f8c2-4f53-8341-1a431d1c892a,1/28/2024,Product Manager,Indeed,Interview Scheduled,2/21/2024,,,,Emily Brown,,No,,,7,326,285
+2bb020e7-a998-4b06-a81b-7f7ce0903793,3/23/2024,Product Manager,Company Website,Offer Made,05-05-2024,6/19/2024,,,Michael Johnson,,No,,,1,6378,265
+6f9e7905-a864-4d73-a94f-7ab58936ba4e,5/15/2024,Product Manager,CareerBuilder,Hired,06-02-2024,06-02-2024,6/22/2024,,Emily Brown,38,Yes,4375.86,2,8,2366,283
+b2d2c778-66c6-4721-b784-f1fb0049df21,6/15/2024,Software Engineer,Company Website,Application Received,,,,,Jane Smith,,No,,,1,9971,468
+02d424d6-50be-4d97-b595-7b322a2566f8,4/26/2024,Product Manager,Referral,Rejected,05-04-2024,,,5/19/2024,Michael Johnson,,No,,,2,3004,352
+57385948-fd56-4795-b8cc-d528f33ee26a,3/18/2024,Product Manager,Referral,Offer Made,3/30/2024,4/17/2024,,,Jane Smith,,No,,,3,558,38
+a89e9f4b-f7aa-487e-b3d1-b3a4739c7ac4,5/19/2024,Data Analyst,Referral,Under Review,,,,,John Doe,,No,,,9,2698,187
+a71d2892-6f0a-4b5a-81b7-c2f8f691605b,1/18/2024,Business Analyst,Referral,Application Received,,,,,Emily Brown,,No,,,2,5611,457
+de06c808-63c9-4b6f-8e25-391ef86ee9c6,6/13/2024,Business Analyst,Referral,Offer Made,07-02-2024,07-10-2024,,,Michael Johnson,,No,,,6,8983,123
+b304d210-9a1f-4d5a-b9d1-b361c597e7df,3/14/2024,Business Analyst,Company Website,Under Review,,,,,Jane Smith,,No,,,3,676,261
+975c7803-2f93-4558-9d3d-7c080ddfc16f,03-06-2024,Business Analyst,CareerBuilder,Interview Scheduled,07-02-2024,,,,John Doe,,No,,,0,3721,203
+bc460d39-665f-4ede-b144-b6429d03efdf,04-01-2024,Product Manager,Company Website,Application Received,,,,,Jane Smith,,No,,,5,2319,230
+6dc2ccbb-a153-4220-aee7-b1e87610aaf1,6/28/2024,Product Manager,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,10,4230,234
+7f189261-365f-4360-b5cb-e918373e4c2c,4/27/2024,Data Analyst,LinkedIn,Interview Scheduled,07-06-2024,,,,Michael Johnson,,No,,,6,8870,233
+aabe0f75-45c5-4792-9717-160db1043de0,05-01-2024,Software Engineer,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,4,8136,250
+a8ed2b3c-8df2-4b10-9dfd-d6f7d902d61b,06-04-2024,Data Analyst,Indeed,Rejected,6/20/2024,,,6/24/2024,John Doe,,No,,,9,8340,288
+f44c83e7-cb55-4ae0-8d10-71f8b7cbe2ae,2/14/2024,Software Engineer,Indeed,Application Received,,,,,Jane Smith,,No,,,0,342,451
+e70d5ba5-6167-4cfa-b078-09330545fbc3,07-12-2024,UX Designer,Company Website,Application Received,,,,,Emily Brown,,No,,,7,6846,425
+43888b9f-03e2-4e61-8c3f-b1cea54a21c8,4/22/2024,Business Analyst,Referral,Rejected,5/27/2024,,,5/30/2024,Jane Smith,,No,,,5,7172,172
+45b1b2ea-fd56-4845-9568-752b0e358e75,04-10-2024,Product Manager,Indeed,Interview Scheduled,07-03-2024,,,,Michael Johnson,,No,,,5,1541,491
+de3969c6-042f-4836-9986-64a5b5934faa,5/29/2024,Software Engineer,Company Website,Offer Made,07-06-2024,7/14/2024,,,Jane Smith,,No,,,8,5913,476
+39edcd40-09c5-4020-8409-f1473bf1b885,4/17/2024,Software Engineer,CareerBuilder,Hired,5/19/2024,06-09-2024,07-09-2024,,Emily Brown,83,Yes,736.91,2,7,8592,262
+3a356889-8f46-4450-bdce-8d2a62d5461d,03-05-2024,Business Analyst,Indeed,Application Received,,,,,John Doe,,No,,,5,4460,478
+f30f6a21-ac59-48d5-bc0e-21e12e925a6d,03-09-2024,Business Analyst,LinkedIn,Hired,3/23/2024,3/26/2024,5/19/2024,,Jane Smith,71,Yes,2071.08,4,8,1882,176
+095835d9-7f1c-4a52-840b-41a92026ea56,6/20/2024,UX Designer,CareerBuilder,Under Review,,,,,Michael Johnson,,No,,,10,5418,94
+cfc0a494-8dcf-4283-8705-92fc201f9a0c,2/21/2024,Business Analyst,CareerBuilder,Under Review,,,,,John Doe,,No,,,9,5030,369
+72c38436-e88b-4e7b-b6f6-9ffa8cbfc97b,2/24/2024,UX Designer,LinkedIn,Hired,07-06-2024,7/14/2024,7/14/2024,,Michael Johnson,141,Yes,3117.81,5,6,8669,80
+b90c7b61-1fda-45fc-ae72-9aa1b32f9b3a,05-07-2024,Business Analyst,Indeed,Application Received,,,,,John Doe,,No,,,4,8133,381
+665f6a4a-457c-4682-9a87-e887884c931c,06-01-2024,Data Analyst,Company Website,Application Received,,,,,Michael Johnson,,No,,,9,5989,413
+08b556dd-76a0-46a1-83af-5122c5498263,01-08-2024,Software Engineer,CareerBuilder,Offer Made,01-10-2024,1/14/2024,,,Emily Brown,,No,,,5,8433,377
+c88041bb-b531-416e-80b2-a2a2aca00f87,6/19/2024,Business Analyst,Indeed,Interview Scheduled,07-09-2024,,,,John Doe,,No,,,1,2973,280
+de6db03f-b8b2-4d26-a179-d69b637e2766,05-11-2024,Data Analyst,Indeed,Offer Made,06-10-2024,07-03-2024,,,Emily Brown,,No,,,0,7043,127
+61b8119d-c8b2-49d9-a110-a01903ad646d,03-06-2024,Business Analyst,Company Website,Hired,3/28/2024,6/27/2024,07-12-2024,,John Doe,128,Yes,2835.82,4,2,7647,438
+d39ae4b4-2808-4ae9-a353-adabe15534bc,01-11-2024,Product Manager,CareerBuilder,Interview Scheduled,06-09-2024,,,,John Doe,,No,,,9,976,26
+61b99707-64db-4568-afb3-cae0c68853de,1/27/2024,UX Designer,LinkedIn,Interview Scheduled,5/21/2024,,,,Jane Smith,,No,,,6,5632,466
+2540553c-2280-41e5-a63e-4c583c12ea6c,4/20/2024,Business Analyst,CareerBuilder,Rejected,06-02-2024,,,07-10-2024,Emily Brown,,No,,,9,4597,176
+cc845747-42d2-4f82-997d-50bd72683233,7/13/2024,Software Engineer,Indeed,Interview Scheduled,7/13/2024,,,,John Doe,,No,,,4,5016,447
+076afdeb-3788-4e5a-a0fc-395647c33af7,6/24/2024,Data Analyst,LinkedIn,Interview Scheduled,07-12-2024,,,,John Doe,,No,,,1,1178,382
+ebca7315-c903-497c-beb4-8fbd04944f4f,3/13/2024,Product Manager,Company Website,Hired,6/14/2024,6/19/2024,07-09-2024,,Jane Smith,118,Yes,571.77,1,1,7884,307
+0b1e0ac5-4d7d-44da-b613-899c6dd449c5,03-04-2024,Data Analyst,Indeed,Rejected,5/16/2024,,,07-08-2024,Michael Johnson,,No,,,3,227,128
+8bc08ce8-4d92-4c04-865d-b2bb26d09ab4,2/26/2024,Product Manager,Company Website,Under Review,,,,,Michael Johnson,,No,,,1,1868,332
+7a186015-11b9-4def-8279-1ab892b78766,04-05-2024,Business Analyst,LinkedIn,Offer Made,4/29/2024,06-12-2024,,,Emily Brown,,No,,,8,6840,119
+e682342d-c07f-40af-aa2e-865d2af6e3ff,2/27/2024,Data Analyst,Company Website,Offer Made,3/18/2024,07-01-2024,,,Emily Brown,,No,,,10,3615,197
+dced4669-a420-4bf3-ab5d-b8dae14d58e9,06-07-2024,Data Analyst,Referral,Application Received,,,,,Emily Brown,,No,,,10,4771,309
+fe67b2e6-f376-407e-96af-c928a477bc3f,04-01-2024,Data Analyst,Indeed,Offer Made,6/28/2024,07-02-2024,,,Michael Johnson,,No,,,6,124,52
+242b70f6-172d-44b8-b01f-deba8a8be834,3/19/2024,Product Manager,Indeed,Hired,3/30/2024,7/14/2024,7/15/2024,,Emily Brown,118,Yes,3630.51,2,6,3262,287
+ea5e858d-2c1b-4f62-b71c-ea3a5772befd,5/27/2024,Data Analyst,LinkedIn,Interview Scheduled,6/24/2024,,,,John Doe,,No,,,5,584,329
+40de2b61-d483-405e-9e24-abbacf090900,02-04-2024,UX Designer,Indeed,Application Received,,,,,Michael Johnson,,No,,,7,1969,413
+b2c3b622-4fa9-4a8c-afc0-b54e703230b7,07-05-2024,Product Manager,LinkedIn,Under Review,,,,,Michael Johnson,,No,,,2,6830,303
+ab17a983-d751-4155-bf5a-74e469661d81,06-02-2024,UX Designer,Indeed,Offer Made,07-10-2024,7/15/2024,,,Emily Brown,,No,,,7,6313,238
+b4134334-0fcd-442e-a74b-98d93e793db9,07-01-2024,UX Designer,LinkedIn,Offer Made,07-12-2024,07-12-2024,,,Jane Smith,,No,,,10,7552,247
+062020ca-6547-4ca8-ba97-5a5dd1037bf7,07-04-2024,Data Analyst,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,5,9009,424
+a9ff7fe7-3dd0-42c4-8d32-f009bf8af44b,06-04-2024,Software Engineer,LinkedIn,Under Review,,,,,John Doe,,No,,,5,862,131
+05e9e7bd-d1cc-4feb-b6f8-136d5317d570,1/28/2024,Product Manager,CareerBuilder,Rejected,6/18/2024,,,6/29/2024,Emily Brown,,No,,,5,8332,316
+924f9102-1509-4b98-aa02-0e8bfa54c5cb,01-03-2024,UX Designer,Referral,Offer Made,04-10-2024,4/23/2024,,,Emily Brown,,No,,,1,7170,62
+328b4c97-bc3e-4c4c-8458-b49fe0296240,1/22/2024,Business Analyst,LinkedIn,Rejected,6/15/2024,,,6/26/2024,Michael Johnson,,No,,,8,3527,70
+2d1770bf-601f-4165-ae03-e8b717447117,3/29/2024,Product Manager,Company Website,Interview Scheduled,5/30/2024,,,,Jane Smith,,No,,,8,9513,111
+73713a0b-0a76-484d-ae36-a5c3ae1bcaaa,06-12-2024,Data Analyst,Company Website,Application Received,,,,,Jane Smith,,No,,,7,1810,285
+dac4a27e-0eea-4fe8-ac9c-71d824a3707f,03-11-2024,UX Designer,LinkedIn,Interview Scheduled,06-12-2024,,,,John Doe,,No,,,9,8857,145
+a077e1f3-677b-46dd-a3ff-d305edb4ef46,6/27/2024,Product Manager,CareerBuilder,Under Review,,,,,John Doe,,No,,,6,8760,76
+77e14fa6-f304-44c1-a796-a9cd0dce3d34,05-07-2024,Software Engineer,Referral,Rejected,6/16/2024,,,07-03-2024,John Doe,,No,,,0,5657,311
+31b5116b-4bcb-4ac5-b375-7dbdb8a640a7,05-02-2024,Software Engineer,Referral,Offer Made,6/29/2024,07-12-2024,,,Jane Smith,,No,,,3,4541,333
+f8276da3-2a47-4b8b-8959-38dd65525818,07-04-2024,Business Analyst,LinkedIn,Interview Scheduled,07-05-2024,,,,Emily Brown,,No,,,0,3166,397
+38d36b15-d688-4d8f-9065-a5c9cdbc76f6,2/22/2024,Software Engineer,LinkedIn,Application Received,,,,,Emily Brown,,No,,,4,9947,104
+87fa4ef1-9ef1-4e8c-8658-cfe3cdacf50b,01-07-2024,Business Analyst,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,10,3486,174
+b0eb84ab-0955-40c8-a177-d5ea3fbb960f,1/21/2024,Business Analyst,LinkedIn,Application Received,,,,,John Doe,,No,,,1,2183,23
+3a6c1eff-b04a-4003-933e-f98041e8531d,6/23/2024,Software Engineer,Referral,Under Review,,,,,John Doe,,No,,,9,8619,216
+79f26200-2024-445e-aa22-a1b99dc3d468,06-12-2024,Software Engineer,Referral,Under Review,,,,,Jane Smith,,No,,,7,9573,314
+47c26581-2926-4de6-ad41-8adf1b7abc47,3/14/2024,Data Analyst,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,9,9255,427
+4a8ef06a-1abd-434b-91d0-fab13e1f5d0a,2/21/2024,Software Engineer,Referral,Rejected,3/15/2024,,,6/15/2024,John Doe,,No,,,9,5107,259
+2252b5a8-ed16-4604-a636-062b5255f214,04-02-2024,Data Analyst,CareerBuilder,Offer Made,05-06-2024,06-06-2024,,,John Doe,,No,,,7,9624,12
+3b438e2b-a915-4e0f-b7ca-1bf1de14747b,5/27/2024,Product Manager,Company Website,Rejected,6/14/2024,,,07-10-2024,Michael Johnson,,No,,,3,4107,229
+019ebf96-c4a8-47ec-8334-812a22e95766,5/19/2024,Business Analyst,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,4,1329,375
+b53922da-1e65-4b7a-aa82-7590a7cb04b8,04-07-2024,UX Designer,LinkedIn,Application Received,,,,,Jane Smith,,No,,,1,6621,227
+da448259-ce19-4dda-8dd2-d729f6bb9b44,03-01-2024,Data Analyst,Company Website,Rejected,5/29/2024,,,06-05-2024,John Doe,,No,,,7,4080,189
+6eff176c-3dd9-4f31-a1ed-0996cd09413b,05-06-2024,UX Designer,Indeed,Rejected,07-04-2024,,,07-09-2024,Emily Brown,,No,,,8,5509,440
+999dc557-3f74-4594-9522-d401318b443d,07-08-2024,Business Analyst,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,10,6347,259
+a11fd9bb-9b1a-4a69-b411-5b300f14cafa,6/26/2024,Data Analyst,Company Website,Under Review,,,,,Jane Smith,,No,,,2,278,455
+d77be2d4-9a6c-49cf-a86d-cbd796b5e810,06-01-2024,Data Analyst,CareerBuilder,Application Received,,,,,John Doe,,No,,,9,1032,465
+d3c73ab9-28f2-4aae-aeb3-925e8b4c950a,4/24/2024,Business Analyst,Referral,Under Review,,,,,Emily Brown,,No,,,6,8286,456
+4887d3fd-3168-4a95-a5ac-6d5c8d9e7115,07-11-2024,Product Manager,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,3,4737,454
+7053cf61-e6b3-4c91-88e5-e2f3125d8a3f,6/23/2024,Data Analyst,Referral,Offer Made,07-01-2024,07-10-2024,,,John Doe,,No,,,1,5492,84
+122a39cf-cf7b-4757-9120-394bad608d5c,6/20/2024,Product Manager,Indeed,Application Received,,,,,Michael Johnson,,No,,,3,2097,402
+6c5919d2-b91b-42cf-992f-af156a1d7bd8,05-11-2024,Product Manager,Indeed,Offer Made,6/18/2024,07-04-2024,,,John Doe,,No,,,6,4142,253
+d5b77ab2-254c-4952-91fc-f9579fcf4dcc,7/14/2024,Business Analyst,LinkedIn,Application Received,,,,,Jane Smith,,No,,,2,8171,266
+1068de9e-2dba-4325-9c14-86a8ac692a44,1/18/2024,Software Engineer,Referral,Offer Made,4/13/2024,6/24/2024,,,John Doe,,No,,,6,1316,231
+45635079-2d55-4e33-8b6e-bae613a23c24,2/28/2024,Data Analyst,Referral,Under Review,,,,,Emily Brown,,No,,,8,6757,229
+d2dfe5de-e7f6-477a-be33-f9c536f57216,4/15/2024,Data Analyst,Indeed,Application Received,,,,,Jane Smith,,No,,,6,3375,104
+bf0c8d70-80d6-4791-8ee9-608ef54bdcc7,5/17/2024,Business Analyst,LinkedIn,Interview Scheduled,6/15/2024,,,,Michael Johnson,,No,,,9,1920,369
+f34e2a9e-1451-4082-a492-75356cf52f1d,03-04-2024,Business Analyst,LinkedIn,Interview Scheduled,07-12-2024,,,,Michael Johnson,,No,,,10,5890,37
+8e016358-edf3-4956-a577-aaf89da3d643,04-04-2024,UX Designer,Company Website,Application Received,,,,,Jane Smith,,No,,,9,7134,421
+ce815e73-f44d-43e0-9ea6-9f398d1b009e,03-09-2024,Business Analyst,CareerBuilder,Under Review,,,,,Michael Johnson,,No,,,7,490,209
+127355e6-afc8-406e-9c3e-6a66943c7d16,5/14/2024,Data Analyst,LinkedIn,Under Review,,,,,Emily Brown,,No,,,7,8288,36
+9c761847-3c81-4bb9-b55d-805e7663f604,2/21/2024,Product Manager,Indeed,Hired,3/13/2024,5/26/2024,7/14/2024,,Emily Brown,144,Yes,4207.1,5,9,4762,37
+c413897f-1e0c-4a11-934c-63267148c654,05-02-2024,Software Engineer,Referral,Under Review,,,,,Michael Johnson,,No,,,7,483,73
+802abfff-800c-42c2-bba4-46e6ac84f668,2/21/2024,Data Analyst,Referral,Hired,03-06-2024,07-05-2024,07-09-2024,,Jane Smith,139,Yes,3614.02,2,6,6958,9
+2ae8bae6-cbd3-471a-acc3-4cf21e7a72f0,3/20/2024,Business Analyst,Indeed,Interview Scheduled,04-12-2024,,,,Michael Johnson,,No,,,3,9683,50
+001ea1cb-64d8-42d4-baf2-4dfb755920d9,3/13/2024,Business Analyst,Company Website,Interview Scheduled,3/14/2024,,,,Emily Brown,,No,,,4,3857,443
+88ffb827-262c-4d90-984c-83de8eeb0cce,06-03-2024,Product Manager,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,1,3394,495
+8dca3b33-bdbd-4130-9d79-086a701c7393,05-11-2024,Product Manager,LinkedIn,Interview Scheduled,6/19/2024,,,,John Doe,,No,,,8,2924,329
+9cfe8794-b648-4566-84a4-dd0e9d911f23,2/22/2024,Data Analyst,Company Website,Under Review,,,,,Emily Brown,,No,,,1,6570,285
+6e0fcbc8-7f3a-4f75-8ad7-7d230dba1c3f,06-06-2024,Product Manager,LinkedIn,Offer Made,6/22/2024,07-10-2024,,,Jane Smith,,No,,,0,3446,460
+611affd4-146e-4bb2-ac42-334657cd6fb8,03-02-2024,Business Analyst,Indeed,Application Received,,,,,Emily Brown,,No,,,7,3110,245
+c1424fed-ca41-42a2-85b0-ea32a6a4b46d,02-03-2024,Data Analyst,LinkedIn,Offer Made,5/25/2024,06-10-2024,,,Michael Johnson,,No,,,10,7314,190
+fb434cf4-9e61-4bda-8f5f-e6ae0d589fe8,3/17/2024,UX Designer,Indeed,Interview Scheduled,6/20/2024,,,,Michael Johnson,,No,,,5,1616,495
+dae72bab-8ef6-4e1d-90f1-55ce637412d0,6/28/2024,Data Analyst,Indeed,Application Received,,,,,Jane Smith,,No,,,0,572,40
+dec7ac6c-24a5-4a7d-85cc-8a45c3d017fd,05-11-2024,Software Engineer,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,2,3142,394
+15847986-0091-40cb-a9c4-b8a039834231,5/27/2024,Product Manager,Referral,Application Received,,,,,Michael Johnson,,No,,,1,514,366
+56416ac0-8ad0-40eb-a44f-ade7d4f687f0,4/28/2024,Product Manager,CareerBuilder,Under Review,,,,,Michael Johnson,,No,,,8,9740,302
+55da33c7-8594-4666-89b7-93938ce68c8c,06-09-2024,Software Engineer,CareerBuilder,Rejected,6/17/2024,,,07-10-2024,John Doe,,No,,,10,3038,108
+9780f482-90ce-45ae-b29f-6c4fc6a85aa4,02-06-2024,UX Designer,LinkedIn,Interview Scheduled,02-09-2024,,,,Michael Johnson,,No,,,9,1999,429
+929b6711-f6e5-4508-8980-626098ce2ed6,6/21/2024,UX Designer,Company Website,Under Review,,,,,Michael Johnson,,No,,,3,248,358
+358909cd-b6be-4505-9e06-bda66c3a6b21,4/15/2024,Product Manager,Company Website,Under Review,,,,,John Doe,,No,,,4,4090,152
+e1466f70-6ca8-471f-868d-93758eaa2d99,2/23/2024,Product Manager,Referral,Application Received,,,,,Michael Johnson,,No,,,1,5596,55
+aa0fc280-6520-4feb-95ae-09a5d1f6a150,07-02-2024,Product Manager,CareerBuilder,Offer Made,07-07-2024,7/14/2024,,,Jane Smith,,No,,,0,7836,218
+b7668395-c7f9-4143-96fd-4b051f9da855,5/13/2024,UX Designer,Indeed,Under Review,,,,,Michael Johnson,,No,,,1,7580,82
+b49d2316-3e7d-4c11-8f24-311e9eabdc48,3/15/2024,Software Engineer,LinkedIn,Rejected,06-07-2024,,,07-11-2024,Emily Brown,,No,,,2,7270,424
+5fd04268-1ea9-48e9-92d7-bed6a2537eec,5/18/2024,Software Engineer,Referral,Rejected,6/17/2024,,,7/15/2024,Michael Johnson,,No,,,4,9638,195
+712f5015-0c57-4d48-9d3d-b01bb6474b07,01-07-2024,Product Manager,Company Website,Under Review,,,,,Jane Smith,,No,,,1,5158,48
+56db9057-7dda-4adf-bc6d-db68d7fadb45,07-10-2024,Data Analyst,Referral,Hired,07-11-2024,07-11-2024,7/14/2024,,Jane Smith,4,Yes,1320.96,2,0,9470,462
+c077bc5d-5fa8-4d74-bb3a-39ee88b93983,04-02-2024,Product Manager,Company Website,Hired,07-01-2024,07-02-2024,07-09-2024,,Emily Brown,98,Yes,3412.54,5,8,7505,9
+8a15824e-6064-40e4-ae05-9fea6823c96a,06-12-2024,Software Engineer,CareerBuilder,Interview Scheduled,6/19/2024,,,,John Doe,,No,,,4,5171,62
+26ae9c82-d0ba-4ff8-b29a-9080fbbe6a5e,4/30/2024,Business Analyst,Referral,Interview Scheduled,7/15/2024,,,,Michael Johnson,,No,,,3,4814,233
+a1ca3a1e-e524-4337-be2e-90c34c9181b5,6/27/2024,UX Designer,CareerBuilder,Interview Scheduled,07-11-2024,,,,John Doe,,No,,,9,5348,373
+2b6d468b-88be-49e8-b1c0-86616e4409b9,1/27/2024,Data Analyst,Indeed,Application Received,,,,,Emily Brown,,No,,,7,6833,327
+dabdb4cc-c913-4396-a346-ba6dad2357aa,04-02-2024,UX Designer,Referral,Offer Made,6/27/2024,7/13/2024,,,Michael Johnson,,No,,,0,5207,256
+56a4ceb3-40fb-4473-ac4e-e529cc4a3c6d,05-04-2024,Data Analyst,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,6,2482,437
+5c8604c9-1edc-4103-96ab-d4ea168dab63,5/18/2024,UX Designer,LinkedIn,Interview Scheduled,5/28/2024,,,,Jane Smith,,No,,,9,9707,341
+eeff1858-a6e2-466f-a3d5-b97e68bfe3a4,03-03-2024,Product Manager,Company Website,Interview Scheduled,03-05-2024,,,,Michael Johnson,,No,,,4,137,30
+f1aa1e21-ab17-4efd-b455-063f9ef31b09,06-10-2024,Business Analyst,Referral,Application Received,,,,,Jane Smith,,No,,,5,9880,386
+f297d04d-7007-4f67-973f-04c75421399f,6/19/2024,Software Engineer,CareerBuilder,Interview Scheduled,7/13/2024,,,,John Doe,,No,,,1,590,273
+3fb548f3-d81a-4fc5-8d32-2e02a0178016,2/26/2024,Data Analyst,Referral,Interview Scheduled,4/27/2024,,,,Michael Johnson,,No,,,3,1054,271
+29a9c33e-1f22-443c-b55c-a66977d8ef71,6/29/2024,Software Engineer,Referral,Application Received,,,,,Emily Brown,,No,,,6,7442,260
+5c5b5366-f662-4f97-ba95-25e1eae015e4,07-05-2024,Software Engineer,Company Website,Interview Scheduled,07-05-2024,,,,John Doe,,No,,,2,1332,64
+581f948d-7ac3-48a8-9413-cb8c4f4aadfc,01-08-2024,Business Analyst,LinkedIn,Interview Scheduled,07-12-2024,,,,Michael Johnson,,No,,,8,7188,168
+3cf87445-7db0-444d-a478-c020d060b7e8,3/20/2024,Product Manager,LinkedIn,Under Review,,,,,John Doe,,No,,,6,3127,104
+17ea1d3c-4d19-41d6-ae97-ba0d1e3d7bf7,07-07-2024,Data Analyst,Referral,Application Received,,,,,Jane Smith,,No,,,5,8063,232
+f91d09d7-b46b-46b6-95ab-5b5927162e86,3/29/2024,Data Analyst,Company Website,Rejected,04-05-2024,,,5/23/2024,Jane Smith,,No,,,2,3122,283
+2f2b55d1-38d2-4eb7-bcac-a1e674ba3121,3/18/2024,Software Engineer,Company Website,Under Review,,,,,John Doe,,No,,,2,3293,52
+c3ebdaf3-0a4e-422a-9e29-fc2776c2ca9c,4/27/2024,Product Manager,LinkedIn,Offer Made,6/15/2024,07-09-2024,,,Michael Johnson,,No,,,1,5822,137
+914a22a3-4f69-41c3-9ee2-159fc2e750ca,04-09-2024,Software Engineer,CareerBuilder,Offer Made,05-11-2024,06-11-2024,,,Jane Smith,,No,,,4,1704,39
+0403a69f-1e6a-4050-882e-e5c9f927837c,01-11-2024,Business Analyst,Indeed,Application Received,,,,,Jane Smith,,No,,,10,2549,344
+ec3e549e-5a08-4d07-af07-324989eedcff,7/13/2024,Data Analyst,Indeed,Application Received,,,,,Michael Johnson,,No,,,7,8036,189
+bb1b0ba4-a83a-47f4-b490-3d4015177b5f,1/23/2024,Business Analyst,Indeed,Under Review,,,,,Jane Smith,,No,,,5,5378,285
+17b831ac-9f7b-4c07-b8c3-6d7a9c76b5c6,05-11-2024,Business Analyst,LinkedIn,Offer Made,5/22/2024,07-01-2024,,,Emily Brown,,No,,,10,6945,70
+aeab0268-c67c-457e-9f2a-a11220028e3f,1/18/2024,Data Analyst,Indeed,Under Review,,,,,Emily Brown,,No,,,2,6573,236
+c0613ea2-3c55-4383-98f9-bf596e308e90,1/24/2024,Data Analyst,CareerBuilder,Interview Scheduled,3/14/2024,,,,Jane Smith,,No,,,5,5032,418
+c0e28616-56c1-4777-9c34-0a8974d7003d,06-11-2024,Product Manager,Referral,Under Review,,,,,Emily Brown,,No,,,9,3260,302
+b97e8512-db27-44b0-96c5-e60983ea658d,02-03-2024,Product Manager,Company Website,Interview Scheduled,5/28/2024,,,,Jane Smith,,No,,,10,6686,234
+cfb1d0eb-13ad-4544-bee1-031df53c946e,6/25/2024,Data Analyst,Company Website,Application Received,,,,,Emily Brown,,No,,,3,4666,96
+5707a66a-d2e1-4368-b2d1-b575aee1f106,2/15/2024,UX Designer,Company Website,Interview Scheduled,6/13/2024,,,,Emily Brown,,No,,,3,8243,229
+b4482d75-eae7-44e9-a15a-da51e7a8d48e,01-09-2024,Software Engineer,Indeed,Application Received,,,,,Emily Brown,,No,,,9,2174,316
+c875b590-89f5-44e5-aec1-b504cf73f3d5,6/20/2024,Business Analyst,LinkedIn,Under Review,,,,,Jane Smith,,No,,,2,2426,295
+e85787cb-a42e-4713-9e40-2a7f190d8b76,5/17/2024,Data Analyst,Referral,Application Received,,,,,Michael Johnson,,No,,,10,1586,444
+bce1963c-f519-4e19-b0e0-39e1a7ec0f15,2/29/2024,Product Manager,Company Website,Offer Made,7/13/2024,7/15/2024,,,Jane Smith,,No,,,3,1026,172
+0d79c7c9-2b28-4f83-af39-4cbc7f25f548,5/25/2024,Software Engineer,Indeed,Interview Scheduled,06-02-2024,,,,Michael Johnson,,No,,,2,491,207
+41f0a1dc-758a-4181-b3ac-30a87ff9daf3,1/27/2024,Product Manager,LinkedIn,Rejected,3/29/2024,,,06-08-2024,John Doe,,No,,,7,8711,179
+80005723-2817-4abc-a3ab-acff475f041d,5/21/2024,UX Designer,CareerBuilder,Interview Scheduled,5/27/2024,,,,Emily Brown,,No,,,9,7253,48
+37eca571-1948-462e-91bd-52a802bbff96,02-04-2024,Business Analyst,Company Website,Application Received,,,,,Jane Smith,,No,,,7,9786,310
+2e5a60ec-88ea-4fc7-940f-838bdd038d66,03-11-2024,Software Engineer,Company Website,Application Received,,,,,Michael Johnson,,No,,,3,3367,406
+7f83bb94-4ddd-4339-a867-72055795b648,02-08-2024,Software Engineer,Indeed,Interview Scheduled,4/22/2024,,,,Michael Johnson,,No,,,3,4973,15
+4b5d752a-a5a4-4963-ab2a-932763f9ec91,2/24/2024,UX Designer,Indeed,Offer Made,03-09-2024,04-11-2024,,,Michael Johnson,,No,,,9,2977,62
+9637b46b-4bea-499e-9e28-df0d270ea840,7/13/2024,UX Designer,Indeed,Under Review,,,,,Emily Brown,,No,,,9,1238,64
+0166a395-1f05-43d4-9a56-a09a579b0457,02-12-2024,Data Analyst,CareerBuilder,Under Review,,,,,Emily Brown,,No,,,10,601,154
+f20a1d7c-74d5-46a7-aae0-77fa5d577250,5/29/2024,UX Designer,LinkedIn,Application Received,,,,,Emily Brown,,No,,,2,5601,27
+430fe674-6c4d-4648-bd04-8a1aa51f9540,05-09-2024,Software Engineer,LinkedIn,Hired,07-11-2024,7/13/2024,7/15/2024,,John Doe,67,Yes,3277.79,1,2,9475,272
+4f13044b-6598-43eb-807d-ac4104f389df,4/23/2024,Software Engineer,Referral,Interview Scheduled,5/21/2024,,,,Michael Johnson,,No,,,6,1392,312
+2b09dc08-495d-48ad-964e-dbacf61822fa,6/16/2024,Product Manager,Referral,Interview Scheduled,07-10-2024,,,,John Doe,,No,,,2,4796,345
+5ed28022-8d07-426c-b5fe-bf12cfe36e9f,7/14/2024,Software Engineer,Referral,Under Review,,,,,Jane Smith,,No,,,0,9345,473
+0855d71d-4729-465a-b9ac-c4002bd7e08b,1/17/2024,Business Analyst,CareerBuilder,Hired,4/21/2024,6/19/2024,6/25/2024,,John Doe,160,Yes,1538.46,5,0,2787,255
+aabaad96-b106-438e-af3f-ab6189ec9fd3,06-09-2024,UX Designer,CareerBuilder,Application Received,,,,,John Doe,,No,,,4,8715,33
+f0b1b5c5-ec13-4189-879c-13cdc0099dd8,2/16/2024,Product Manager,Indeed,Application Received,,,,,Emily Brown,,No,,,4,7012,50
+44b68879-2cbb-4c8e-adf5-ab5811a63a81,5/26/2024,UX Designer,LinkedIn,Rejected,06-04-2024,,,07-05-2024,Emily Brown,,No,,,6,3750,321
+6f8ccfb1-8fc2-43d2-81c9-8a272cea3a2a,03-12-2024,Software Engineer,CareerBuilder,Under Review,,,,,John Doe,,No,,,2,1660,177
+e757ee89-d57d-49f6-ae99-711feb585ad1,04-10-2024,UX Designer,Company Website,Under Review,,,,,Emily Brown,,No,,,0,8021,265
+412c9382-4e54-4aaa-ad34-fde57d261a62,3/17/2024,UX Designer,Indeed,Rejected,05-05-2024,,,5/20/2024,Jane Smith,,No,,,6,1371,149
+d27c65c6-1f31-4dbb-a3f1-14d4198535f8,01-10-2024,Business Analyst,Referral,Hired,7/15/2024,7/15/2024,7/15/2024,,Jane Smith,187,Yes,2474.98,1,7,9210,268
+81fa8e7e-2b81-4272-a614-9ec05d22eea4,3/15/2024,Software Engineer,LinkedIn,Under Review,,,,,John Doe,,No,,,0,9774,257
+aad5e470-47b8-4646-a214-2112a9596e90,5/13/2024,Data Analyst,Company Website,Rejected,6/22/2024,,,7/15/2024,Michael Johnson,,No,,,3,5525,485
+f789824c-4e64-4efa-a52c-d1f7f775dd87,07-11-2024,UX Designer,Indeed,Offer Made,07-12-2024,7/15/2024,,,John Doe,,No,,,4,8090,372
+6316b625-b455-4744-b549-4ff9fcf8f659,03-06-2024,UX Designer,Indeed,Offer Made,5/22/2024,07-08-2024,,,Emily Brown,,No,,,2,2258,421
+65fa47ef-ab76-4110-88cf-1cf4090489a6,04-06-2024,Product Manager,Company Website,Under Review,,,,,Michael Johnson,,No,,,3,4180,394
+f3d742b7-f4f4-4eff-b4f0-1b05cc16bc31,5/27/2024,Software Engineer,Indeed,Under Review,,,,,John Doe,,No,,,6,3298,431
+df8d91c7-4402-45f2-9abc-20fc4fd8ebd1,7/15/2024,Product Manager,Company Website,Interview Scheduled,7/15/2024,,,,Michael Johnson,,No,,,3,6061,365
+63d1c432-5e57-428a-bb95-64fd654120a1,4/21/2024,Product Manager,LinkedIn,Under Review,,,,,Jane Smith,,No,,,0,4007,297
+67d013b6-56a7-4716-879d-427c8cf8c09d,05-01-2024,Software Engineer,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,7,1724,309
+1801a853-7652-483c-8699-89d39bfde827,03-01-2024,Software Engineer,Indeed,Application Received,,,,,Emily Brown,,No,,,9,192,31
+18f003ce-2dc8-4464-8e35-f9999759ebbf,04-03-2024,Business Analyst,CareerBuilder,Offer Made,07-04-2024,7/14/2024,,,Emily Brown,,No,,,5,6638,72
+e7b6809d-c8b7-486b-b854-3de964214d7a,07-11-2024,Business Analyst,Referral,Under Review,,,,,Emily Brown,,No,,,5,2818,313
+8cce433f-9032-43f8-bc24-0055b1f3ed3b,2/28/2024,UX Designer,Referral,Under Review,,,,,Jane Smith,,No,,,2,1285,64
+98831729-418b-45b1-9b00-ea9614835d66,05-06-2024,Product Manager,Indeed,Rejected,07-04-2024,,,07-08-2024,Emily Brown,,No,,,8,4101,48
+ece7e290-9759-443f-b658-bebfb2f332a0,4/22/2024,UX Designer,Company Website,Rejected,5/27/2024,,,6/29/2024,Emily Brown,,No,,,10,2463,240
+7b6ce787-e14d-4e86-8be2-6b28f716f901,5/16/2024,Product Manager,CareerBuilder,Interview Scheduled,5/20/2024,,,,John Doe,,No,,,4,8755,211
+2aefdbb9-cd77-4b62-8886-ecae13bda46b,03-01-2024,Business Analyst,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,0,6535,78
+35633ee2-f6f6-480d-9b3f-0725a0e2c8e8,04-10-2024,Data Analyst,LinkedIn,Hired,05-07-2024,5/29/2024,7/13/2024,,John Doe,94,Yes,4038.76,2,0,7258,22
+21c267fb-618d-40e3-90ba-60bded70076b,04-12-2024,Software Engineer,LinkedIn,Offer Made,05-06-2024,07-06-2024,,,Jane Smith,,No,,,7,3968,449
+a32caae3-20cc-48b5-bfc7-73a9dbe080a1,1/22/2024,Business Analyst,Indeed,Interview Scheduled,2/22/2024,,,,John Doe,,No,,,3,9651,380
+e8c42e79-1782-460e-bc3a-bfb9d01740c4,04-02-2024,UX Designer,Company Website,Hired,5/23/2024,06-04-2024,6/27/2024,,Jane Smith,86,Yes,4393.38,3,6,6766,270
+c707351a-b0ef-43da-9932-817d34c8692f,1/27/2024,UX Designer,LinkedIn,Under Review,,,,,John Doe,,No,,,5,2466,378
+7b42de73-0e54-4284-a893-c752f9c29dbc,5/23/2024,Product Manager,Referral,Offer Made,6/25/2024,07-11-2024,,,John Doe,,No,,,9,9449,2
+2b576830-f3ab-462e-a053-ce6b1af9d185,1/31/2024,UX Designer,LinkedIn,Under Review,,,,,John Doe,,No,,,3,602,82
+4e8e463b-0f63-414f-81e6-d7920cd5a254,07-07-2024,UX Designer,Referral,Application Received,,,,,Emily Brown,,No,,,5,5708,403
+36259d09-5132-4bd8-9026-7d7ef138488e,01-04-2024,Product Manager,CareerBuilder,Offer Made,5/28/2024,06-11-2024,,,Jane Smith,,No,,,9,3317,450
+f83d5eba-a7e3-42bb-b981-cf43f408223b,4/25/2024,Data Analyst,CareerBuilder,Interview Scheduled,6/15/2024,,,,Jane Smith,,No,,,5,8459,240
+c9bea09c-8f9d-4785-acad-9dfafa0603bb,6/14/2024,Data Analyst,LinkedIn,Under Review,,,,,John Doe,,No,,,3,8080,26
+0ea04ca4-9627-4cb6-8724-ff71f8e5d461,04-07-2024,Product Manager,LinkedIn,Under Review,,,,,John Doe,,No,,,6,1554,410
+154e0bb1-86a7-447a-989d-a987942a30b1,04-12-2024,Software Engineer,LinkedIn,Hired,4/18/2024,4/25/2024,5/20/2024,,Emily Brown,38,Yes,3972.55,5,7,7677,211
+ab1a6108-4d14-4a25-a97b-14c93ed1862e,3/14/2024,Data Analyst,Referral,Interview Scheduled,5/20/2024,,,,Jane Smith,,No,,,5,3949,179
+a516c220-c243-4963-b7f3-7c2db9e50456,6/25/2024,Business Analyst,Indeed,Under Review,,,,,Jane Smith,,No,,,5,9480,135
+774ab19f-7a21-4936-b826-6474c3ef4f45,1/22/2024,UX Designer,LinkedIn,Under Review,,,,,Michael Johnson,,No,,,8,6545,285
+249ed428-28be-429a-a460-2172ac30b186,1/30/2024,UX Designer,Referral,Application Received,,,,,John Doe,,No,,,1,7434,307
+65f3e5c7-5c8d-482d-bf54-327497d4036e,01-07-2024,Software Engineer,Indeed,Interview Scheduled,2/20/2024,,,,John Doe,,No,,,1,3832,269
+d920ff70-60f5-4f72-8943-e6dd3f1c3986,05-12-2024,Software Engineer,Indeed,Application Received,,,,,Jane Smith,,No,,,8,5915,25
+be570348-8e10-402b-8959-c9eb95156b0d,02-11-2024,Data Analyst,Indeed,Under Review,,,,,Emily Brown,,No,,,7,102,187
+d451c2f5-59b3-4e86-a618-cae2dfa09a78,05-01-2024,Data Analyst,Company Website,Under Review,,,,,Emily Brown,,No,,,2,3505,215
+36b618b4-5849-4ccd-b238-fb63a61a4eb7,01-05-2024,Data Analyst,Referral,Interview Scheduled,4/16/2024,,,,Jane Smith,,No,,,1,4511,480
+3a1f4286-6951-4df2-8a7d-99c8c9891b50,07-04-2024,Product Manager,Indeed,Application Received,,,,,John Doe,,No,,,5,2753,108
+86402d49-32c5-4216-8a36-e7f7729b879d,1/24/2024,Business Analyst,LinkedIn,Interview Scheduled,06-09-2024,,,,Emily Brown,,No,,,4,9637,355
+4a1b64ed-ab3f-464a-b93f-4920ce99ed9f,5/20/2024,Business Analyst,Indeed,Under Review,,,,,Emily Brown,,No,,,6,7730,402
+d951fe87-4ef8-4e9a-8a43-109adca07921,07-05-2024,Business Analyst,CareerBuilder,Offer Made,07-12-2024,07-12-2024,,,John Doe,,No,,,0,3829,286
+4eb44a4e-50d3-4caf-8b59-1bf8dd01b601,3/19/2024,UX Designer,Company Website,Application Received,,,,,John Doe,,No,,,3,1948,440
+d48d8ded-f77c-4e7e-9186-15e9ce2e3e6c,1/28/2024,Business Analyst,LinkedIn,Hired,3/25/2024,3/26/2024,6/15/2024,,Jane Smith,139,Yes,3811.11,3,8,5498,293
+97722739-314a-44d2-ab48-993390003597,2/18/2024,Product Manager,Indeed,Under Review,,,,,Jane Smith,,No,,,10,397,102
+ba8bb1c9-805d-4bf0-a75b-140980b3b52a,6/17/2024,Product Manager,Company Website,Application Received,,,,,Michael Johnson,,No,,,8,9504,207
+19665411-9e09-4873-a6ee-e5a73cf20657,6/14/2024,Data Analyst,LinkedIn,Offer Made,07-12-2024,7/14/2024,,,John Doe,,No,,,7,6159,106
+afe7f786-c273-4179-b495-74d25181ecdc,04-08-2024,Data Analyst,Company Website,Offer Made,6/28/2024,07-08-2024,,,John Doe,,No,,,10,8068,278
+ea8e1bac-b723-40fb-8f73-665afa661e2c,4/19/2024,Business Analyst,Indeed,Under Review,,,,,John Doe,,No,,,4,770,280
+9db3adce-3d88-4d1c-a0f0-292ad894456a,6/29/2024,Business Analyst,CareerBuilder,Application Received,,,,,John Doe,,No,,,5,6146,489
+c2fec527-1e0b-4425-9a3e-89f47b3d39a6,04-01-2024,UX Designer,Company Website,Application Received,,,,,Michael Johnson,,No,,,4,8795,444
+ce6acb99-6028-4d96-8407-41085694e0d1,2/25/2024,Business Analyst,Indeed,Interview Scheduled,07-06-2024,,,,John Doe,,No,,,5,8168,160
+e4a81b84-6a2d-4aa0-80fa-a130ec65b135,6/24/2024,UX Designer,Company Website,Under Review,,,,,Michael Johnson,,No,,,0,2985,120
+fb187c8f-21e7-4efd-88aa-e56c41e669ce,5/28/2024,UX Designer,Indeed,Rejected,06-03-2024,,,06-11-2024,Michael Johnson,,No,,,7,3737,91
+692d671b-568d-4389-a5e9-e510e5d300e2,2/25/2024,Software Engineer,Company Website,Under Review,,,,,John Doe,,No,,,2,138,42
+c21bf6c7-d0b5-481d-ad72-0dc8594ef8f5,02-01-2024,Business Analyst,Indeed,Offer Made,03-12-2024,4/24/2024,,,Michael Johnson,,No,,,4,4092,34
+b8cacf5a-b3f6-47ad-b464-acad8fb9d599,05-09-2024,Data Analyst,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,3,986,478
+73469298-6628-4508-9165-e788e02d023c,07-10-2024,Software Engineer,Indeed,Under Review,,,,,John Doe,,No,,,8,283,38
+a98e5452-242f-48ce-9635-0c1f6f5af7ac,04-10-2024,Data Analyst,Company Website,Application Received,,,,,Jane Smith,,No,,,6,7412,40
+85de084e-7f46-45f2-8863-63021cb14ead,04-04-2024,Business Analyst,Company Website,Application Received,,,,,Michael Johnson,,No,,,10,730,35
+d4d6ed91-7242-4b93-89b1-facb6ad55871,4/25/2024,UX Designer,Referral,Application Received,,,,,Emily Brown,,No,,,1,9352,166
+5fbe3fc6-4f02-4347-9c71-6737b445e46d,1/16/2024,Product Manager,Company Website,Hired,2/26/2024,03-10-2024,06-05-2024,,Emily Brown,141,Yes,2211.54,3,1,9525,247
+f410db60-fcb7-46b1-b747-cf0b2bcb2a08,01-09-2024,UX Designer,CareerBuilder,Offer Made,03-03-2024,04-05-2024,,,Emily Brown,,No,,,6,8347,40
+531c1d0f-889f-4498-a10f-a6aed76c8f6d,6/17/2024,Data Analyst,LinkedIn,Application Received,,,,,John Doe,,No,,,6,7151,229
+e4424181-48f7-4571-8e1f-2c0c04d5e46b,5/17/2024,Product Manager,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,10,1339,413
+2274dd6b-d17d-495d-b683-fe5d9f9b63a1,03-10-2024,UX Designer,Referral,Application Received,,,,,Emily Brown,,No,,,2,3163,463
+bc851ad9-da75-4aa6-b618-e42a3e8baed8,1/27/2024,Business Analyst,Company Website,Application Received,,,,,John Doe,,No,,,2,5398,59
+1e94d7e0-49d6-460d-8a19-b272a503c903,03-07-2024,Product Manager,Company Website,Offer Made,3/21/2024,06-02-2024,,,Michael Johnson,,No,,,5,4447,117
+732f2913-e627-4445-b266-3a8fa8af621d,6/21/2024,Product Manager,LinkedIn,Interview Scheduled,6/25/2024,,,,Emily Brown,,No,,,1,7902,251
+30d33640-17d7-4696-8407-bddfba62f96f,04-05-2024,UX Designer,Company Website,Application Received,,,,,Jane Smith,,No,,,0,4376,228
+a30d710d-82d0-4379-84d9-a044411216f8,3/13/2024,Software Engineer,LinkedIn,Application Received,,,,,Jane Smith,,No,,,3,266,142
+162bf4c0-ae3f-4bc4-8276-835aa84852d5,3/23/2024,Data Analyst,CareerBuilder,Under Review,,,,,John Doe,,No,,,0,7420,74
+d5722c70-31f2-4ef2-8177-fbcf2f91c7fe,2/22/2024,Software Engineer,CareerBuilder,Application Received,,,,,John Doe,,No,,,9,7332,276
+84cfa117-b2bd-42ff-af63-54572aec4b77,1/13/2024,Data Analyst,Indeed,Application Received,,,,,John Doe,,No,,,6,2533,440
+12d9d46c-5fb3-46e4-8032-ad5debaad7ba,1/29/2024,Data Analyst,Indeed,Under Review,,,,,Jane Smith,,No,,,3,646,4
+27261805-5541-48fe-bf4d-c31dc7c86bf1,02-07-2024,Software Engineer,Company Website,Application Received,,,,,Emily Brown,,No,,,9,5454,90
+2af1497e-6356-4700-920b-d7a664f087e7,3/29/2024,Product Manager,Referral,Under Review,,,,,John Doe,,No,,,1,7643,154
+59d43076-fb75-4953-b7eb-f3770157174f,07-03-2024,Product Manager,CareerBuilder,Hired,07-10-2024,07-10-2024,07-10-2024,,Jane Smith,7,Yes,694.6,2,9,523,438
+158d779c-41aa-4257-840e-6669788b283f,2/22/2024,Product Manager,Indeed,Interview Scheduled,03-12-2024,,,,John Doe,,No,,,6,9306,139
+60af26d2-3be7-4a19-a80b-fb423ed36186,03-06-2024,UX Designer,Referral,Under Review,,,,,Michael Johnson,,No,,,4,2671,333
+7960510a-2767-4441-9641-4eb981b071af,06-02-2024,Software Engineer,Referral,Application Received,,,,,Jane Smith,,No,,,2,2685,210
+4d6eeca9-fefa-4e59-bfaa-91aa1c12f235,07-06-2024,Product Manager,CareerBuilder,Under Review,,,,,Michael Johnson,,No,,,7,8478,419
+54119355-4fa2-448f-a671-a46d88b347eb,4/30/2024,Data Analyst,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,3,1578,422
+ad47aaf0-29d5-45ac-8616-510beec16651,5/28/2024,Product Manager,LinkedIn,Offer Made,5/28/2024,07-05-2024,,,Jane Smith,,No,,,1,485,183
+d739240f-d4e1-4242-96d6-66e85e7c7a1a,04-06-2024,UX Designer,LinkedIn,Interview Scheduled,05-06-2024,,,,Jane Smith,,No,,,7,2465,184
+8db894e4-493d-435e-b621-9f071d9db1b5,3/26/2024,Software Engineer,LinkedIn,Application Received,,,,,Emily Brown,,No,,,7,8112,335
+3b05d0d1-e86c-4d4d-af17-3eb91a2e593f,03-05-2024,Software Engineer,Indeed,Application Received,,,,,Michael Johnson,,No,,,4,406,156
+e37ecadf-10b0-435e-933b-d3f4b40c86b8,6/18/2024,Product Manager,Indeed,Interview Scheduled,07-01-2024,,,,Michael Johnson,,No,,,4,2070,312
+d2b3abba-a819-4220-941c-96b0f110f1cc,06-06-2024,Software Engineer,Referral,Under Review,,,,,Jane Smith,,No,,,3,201,377
+363db722-c3e1-4894-9425-9764964b2356,4/17/2024,Data Analyst,LinkedIn,Application Received,,,,,Jane Smith,,No,,,7,2355,332
+7edc3375-b3a0-4488-a992-d403d1a96031,05-09-2024,Product Manager,Referral,Application Received,,,,,Michael Johnson,,No,,,5,4577,477
+9c0a82db-1781-49d8-8af4-7917fdb24bf7,01-07-2024,UX Designer,CareerBuilder,Application Received,,,,,John Doe,,No,,,10,9701,380
+acfbaee9-ebca-432f-80ba-74cf7aec4e12,2/20/2024,Business Analyst,CareerBuilder,Interview Scheduled,3/18/2024,,,,Emily Brown,,No,,,7,5831,6
+53acefbb-7bea-4406-916d-aa01e488f85a,3/14/2024,Product Manager,Indeed,Interview Scheduled,5/22/2024,,,,Michael Johnson,,No,,,9,8941,55
+300b7942-ab39-474e-8f72-97d66ccd8bfd,1/13/2024,Data Analyst,Indeed,Offer Made,2/22/2024,03-05-2024,,,Emily Brown,,No,,,3,6932,40
+142eb438-4076-428c-9521-6220aefa5c7a,04-11-2024,Data Analyst,CareerBuilder,Rejected,6/17/2024,,,6/17/2024,Jane Smith,,No,,,2,7620,275
+5e43336b-98e4-413b-b050-c45d175117d2,5/30/2024,Business Analyst,Referral,Interview Scheduled,06-10-2024,,,,Emily Brown,,No,,,7,9709,300
+78ff4d1d-e460-453a-9883-112ca70d2cb0,5/29/2024,Data Analyst,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,4,2850,405
+bc843ac1-e9b9-4f2a-8d1e-b561f24adf61,01-08-2024,Product Manager,Company Website,Offer Made,2/23/2024,5/26/2024,,,Jane Smith,,No,,,8,5148,437
+99171e68-a359-458f-9709-888ea080efd5,03-01-2024,UX Designer,LinkedIn,Hired,4/16/2024,6/29/2024,6/30/2024,,John Doe,121,Yes,1738.04,5,8,3402,490
+7dff0cb0-f14a-45d1-aaad-bb8438dd2b2c,04-02-2024,Data Analyst,Company Website,Under Review,,,,,John Doe,,No,,,10,3712,234
+51a83135-aea2-42ef-a465-2ff30e87bbfd,2/28/2024,UX Designer,Company Website,Application Received,,,,,John Doe,,No,,,8,9078,444
+d4439958-bcad-4445-aa17-13324a5bc5a2,06-07-2024,UX Designer,Indeed,Application Received,,,,,Jane Smith,,No,,,8,6389,30
+0268f015-b2ff-48a8-a892-dae394c187b6,2/26/2024,UX Designer,CareerBuilder,Interview Scheduled,4/15/2024,,,,Jane Smith,,No,,,4,6097,300
+0ebbb598-c2ef-46cc-86da-b13c2b044b82,6/15/2024,Business Analyst,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,2,4634,18
+982334b3-5bc1-4896-881b-5fcc062a6be9,05-03-2024,Business Analyst,Company Website,Hired,07-03-2024,07-03-2024,07-09-2024,,Michael Johnson,67,Yes,2529.82,2,1,909,137
+b1cad3d9-3f6c-4e6c-9a0b-e3675fd83246,05-05-2024,Data Analyst,LinkedIn,Interview Scheduled,07-12-2024,,,,John Doe,,No,,,6,362,136
+d7957161-3d67-4ed5-b8be-b9c5d7d32675,6/25/2024,UX Designer,Indeed,Application Received,,,,,Jane Smith,,No,,,10,2012,143
+076d52d5-2b0d-476b-bbc5-d0e2c95b41f1,3/14/2024,Software Engineer,Company Website,Offer Made,07-10-2024,07-12-2024,,,Michael Johnson,,No,,,6,4247,92
+1fa235f7-aeaf-48d2-8b75-8bd1f91d0c12,05-11-2024,Data Analyst,CareerBuilder,Offer Made,5/28/2024,06-02-2024,,,Jane Smith,,No,,,6,6973,436
+fa43e526-b07d-4654-a06c-f34d10f87d56,5/29/2024,Data Analyst,Referral,Offer Made,07-05-2024,07-06-2024,,,Michael Johnson,,No,,,4,6556,327
+e1a627e2-1dc5-42ef-ad46-d569a2e5f614,01-12-2024,Software Engineer,Company Website,Under Review,,,,,Jane Smith,,No,,,9,8675,90
+1624dc4d-ab7d-4558-8764-2918a99ec33e,04-07-2024,Product Manager,CareerBuilder,Interview Scheduled,06-05-2024,,,,Michael Johnson,,No,,,7,8741,321
+bc78a645-d91b-462c-b06f-ca17bedcf9be,03-12-2024,Business Analyst,Referral,Application Received,,,,,Emily Brown,,No,,,0,3207,306
+7a79576d-6183-4ae4-9093-a5cb7a6a98f1,06-11-2024,Software Engineer,LinkedIn,Hired,6/19/2024,07-10-2024,07-12-2024,,Jane Smith,31,Yes,4426.08,5,0,6338,237
+a8d77114-7941-4ddf-b046-ea6fd430e20e,03-01-2024,Software Engineer,Company Website,Offer Made,3/14/2024,4/14/2024,,,Michael Johnson,,No,,,1,3937,457
+72c709ea-a133-41ca-9708-cf206637975b,2/19/2024,UX Designer,Referral,Interview Scheduled,04-10-2024,,,,Jane Smith,,No,,,9,7918,372
+2f6ef114-5c6b-4dfd-a9fb-816837929906,4/22/2024,UX Designer,Referral,Interview Scheduled,06-02-2024,,,,John Doe,,No,,,8,5488,198
+f00e4fea-2955-4ff1-b637-784dae67a7c5,06-06-2024,Business Analyst,LinkedIn,Application Received,,,,,Jane Smith,,No,,,5,2808,296
+bcd49c79-3b14-47c3-8553-09d26f3fa334,05-12-2024,Software Engineer,Company Website,Offer Made,6/26/2024,7/13/2024,,,Emily Brown,,No,,,3,7615,460
+1195c84d-af0a-4a86-9622-7c58c55656f1,3/31/2024,UX Designer,LinkedIn,Application Received,,,,,Jane Smith,,No,,,10,1840,372
+4fbce713-529b-4861-b27d-ee73cf14e90a,5/26/2024,Product Manager,LinkedIn,Interview Scheduled,6/26/2024,,,,Emily Brown,,No,,,0,8600,320
+ca0560fd-a366-45ad-ae3b-ada3b4deb1a4,02-07-2024,Product Manager,CareerBuilder,Hired,05-01-2024,06-03-2024,06-10-2024,,John Doe,124,Yes,3156.87,5,2,2052,33
+337796fb-43ac-4907-a4cb-fb994c70145a,1/20/2024,Product Manager,Indeed,Hired,4/26/2024,6/23/2024,07-02-2024,,Michael Johnson,164,Yes,2265.87,1,9,9541,219
+c3776630-6c71-4e16-920e-97edf38041cd,02-09-2024,Software Engineer,Referral,Interview Scheduled,2/19/2024,,,,Jane Smith,,No,,,0,6063,30
+8df70042-3603-4641-9c63-0032fc38b80e,3/21/2024,UX Designer,Indeed,Application Received,,,,,John Doe,,No,,,3,6787,134
+daeb5f55-a79a-4c73-a68e-d39022601029,06-01-2024,Data Analyst,Referral,Application Received,,,,,Emily Brown,,No,,,5,5285,448
+36d0293c-fffe-4118-b8a9-02efe4be0316,03-09-2024,UX Designer,Company Website,Interview Scheduled,3/25/2024,,,,Emily Brown,,No,,,5,3698,388
+95494c3a-2f3f-4b0e-af76-db62a22fde0f,2/17/2024,Software Engineer,Indeed,Under Review,,,,,Emily Brown,,No,,,2,7972,205
+ee72ba0b-b2d6-4aae-8d52-70594ea6bd2e,05-09-2024,Product Manager,LinkedIn,Application Received,,,,,Jane Smith,,No,,,8,9466,465
+106f527f-3034-41d6-ab4b-d4a176c8b74c,5/22/2024,Software Engineer,CareerBuilder,Interview Scheduled,6/21/2024,,,,Emily Brown,,No,,,5,7956,4
+f28d715f-ab2c-4f2b-bc2b-22c7fdfd7c22,06-07-2024,Software Engineer,Indeed,Interview Scheduled,6/28/2024,,,,Jane Smith,,No,,,3,1541,5
+da5d7b4e-bb92-44f4-86d9-3bed5cc6c9b4,3/14/2024,UX Designer,Referral,Hired,5/31/2024,06-11-2024,6/14/2024,,John Doe,92,Yes,1826.6,5,1,9889,86
+08312a20-f72d-46b6-9640-b4b138c821a2,06-07-2024,Business Analyst,Company Website,Interview Scheduled,06-08-2024,,,,Jane Smith,,No,,,4,334,327
+bc80c91a-d23c-4fdc-81b3-da402d397de9,01-09-2024,Business Analyst,Company Website,Hired,06-09-2024,6/24/2024,7/13/2024,,Jane Smith,186,Yes,2509.27,4,5,1031,419
+35213005-c3da-4104-a45d-d92548afce5c,5/24/2024,Business Analyst,Indeed,Under Review,,,,,Emily Brown,,No,,,3,5707,114
+106543ca-17ff-45af-b1b4-873af6760f88,06-05-2024,Software Engineer,Referral,Under Review,,,,,Michael Johnson,,No,,,2,1219,315
+1304f459-38dc-4dba-b50e-fea360d4385f,4/16/2024,Product Manager,Indeed,Offer Made,4/21/2024,7/14/2024,,,Emily Brown,,No,,,4,5681,400
+2e6bd7a6-1022-4a79-93b6-b0fd0dae2d73,07-02-2024,Business Analyst,LinkedIn,Rejected,07-02-2024,,,07-10-2024,John Doe,,No,,,4,847,217
+26406851-694b-4e9e-8dcf-a58e42b7f10f,5/13/2024,Business Analyst,Company Website,Application Received,,,,,Michael Johnson,,No,,,0,8166,314
+1d827678-3517-4687-89c1-3b6034186b11,04-11-2024,Business Analyst,CareerBuilder,Rejected,6/16/2024,,,07-12-2024,Emily Brown,,No,,,9,2600,72
+c902b5a8-5f7b-4f84-8436-e70d5d7c193f,6/25/2024,Data Analyst,Referral,Interview Scheduled,6/30/2024,,,,John Doe,,No,,,4,6316,60
+24a3e81d-7bbf-439e-85f2-18976dae2080,02-12-2024,Product Manager,Indeed,Application Received,,,,,Michael Johnson,,No,,,8,9212,58
+2df7e75a-987f-4a53-83c4-2e3dcc460eb9,04-06-2024,Product Manager,LinkedIn,Under Review,,,,,Jane Smith,,No,,,9,4525,43
+e45688c7-56bd-4ab8-bbbb-a50efe028b9d,04-12-2024,Data Analyst,Referral,Rejected,5/28/2024,,,07-10-2024,Emily Brown,,No,,,8,6421,178
+ee831479-c111-4df0-8ebf-af495d2f18e3,2/14/2024,Business Analyst,LinkedIn,Interview Scheduled,2/17/2024,,,,Jane Smith,,No,,,2,5597,487
+1e95b52c-a44f-4903-8b36-4eefe6e779e5,05-10-2024,Product Manager,Indeed,Interview Scheduled,5/21/2024,,,,Michael Johnson,,No,,,7,4682,223
+ec132814-bb7e-4884-9088-123352202bef,5/23/2024,Software Engineer,Referral,Offer Made,6/16/2024,07-02-2024,,,Michael Johnson,,No,,,7,1499,40
+62882d14-a5a9-4069-9267-3d24956284e3,5/14/2024,Software Engineer,Referral,Offer Made,07-10-2024,07-10-2024,,,Michael Johnson,,No,,,8,700,237
+88b0ecb7-c8d9-4804-ad02-881352ac2302,01-01-2024,Data Analyst,CareerBuilder,Interview Scheduled,1/21/2024,,,,Jane Smith,,No,,,10,4891,324
+74a28bfe-3251-418a-a6d1-7f67f4e0c761,6/29/2024,Product Manager,Indeed,Interview Scheduled,07-05-2024,,,,John Doe,,No,,,3,6768,161
+23275e69-89d2-4f38-b037-ba9dd9540fdf,03-10-2024,Business Analyst,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,4,5235,390
+2b691639-24a7-4c13-9cf7-5d1bde2eb1f6,01-02-2024,Business Analyst,CareerBuilder,Under Review,,,,,Michael Johnson,,No,,,3,9242,392
+750ac684-2bc5-4b62-88ef-cdcd80266f8a,1/26/2024,UX Designer,LinkedIn,Application Received,,,,,Jane Smith,,No,,,2,3465,249
+3fd1e3aa-e379-49b4-90e9-36df8bd6a970,03-08-2024,UX Designer,LinkedIn,Application Received,,,,,John Doe,,No,,,3,3801,182
+ac342a1e-ab55-4ccd-a6bb-d9ed8b9639b7,3/26/2024,Business Analyst,Referral,Under Review,,,,,Michael Johnson,,No,,,0,2615,78
+ead179c6-e684-4656-b694-249c5fb6d563,07-06-2024,Product Manager,LinkedIn,Rejected,7/14/2024,,,7/15/2024,Jane Smith,,No,,,6,6130,68
+c9411dc0-03f5-4fe2-aa94-622661e9528b,6/25/2024,UX Designer,Indeed,Application Received,,,,,Michael Johnson,,No,,,7,6747,231
+40ee8f8e-0829-4cc0-ab9d-92e97003fa11,2/22/2024,Business Analyst,Company Website,Application Received,,,,,Emily Brown,,No,,,3,9991,89
+243c6709-a150-43a2-9d74-5e4221da4e8f,03-07-2024,Software Engineer,Company Website,Interview Scheduled,5/22/2024,,,,John Doe,,No,,,8,2536,390
+5a969d1a-75a8-4564-a443-9d395f2fabc5,4/27/2024,Data Analyst,LinkedIn,Hired,6/24/2024,07-02-2024,07-12-2024,,Michael Johnson,76,Yes,3733.22,1,2,2587,30
+c05df660-ef43-469c-b74a-511c8925cb17,04-07-2024,Product Manager,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,1,3744,159
+acb90a82-cfd5-4816-9eb4-485406dfb8fa,4/26/2024,UX Designer,Company Website,Offer Made,07-01-2024,07-04-2024,,,Emily Brown,,No,,,4,6582,35
+8c3c5c29-673a-41de-82ba-8322b44edf60,03-01-2024,UX Designer,LinkedIn,Application Received,,,,,Emily Brown,,No,,,4,6949,76
+a75b46c3-f23d-4a80-9266-0526c509888a,5/31/2024,Product Manager,Company Website,Under Review,,,,,Jane Smith,,No,,,2,4052,335
+69a1e429-9a62-470d-bb64-532676471f20,03-08-2024,Data Analyst,Indeed,Application Received,,,,,John Doe,,No,,,8,8193,51
+09fa5d17-5979-4c9f-9382-851801fbcd67,07-03-2024,Product Manager,CareerBuilder,Offer Made,07-10-2024,07-11-2024,,,Michael Johnson,,No,,,10,9227,371
+eabde5e0-523b-4c62-98d8-b40967b0dc4b,01-10-2024,UX Designer,Company Website,Application Received,,,,,John Doe,,No,,,1,2844,125
+5b77aace-d035-43b5-b7db-9297e8b869c4,5/21/2024,Data Analyst,Company Website,Under Review,,,,,Emily Brown,,No,,,1,9079,6
+ea43f0de-3246-4cc0-b5ee-9b8caa7cb086,07-05-2024,Data Analyst,CareerBuilder,Under Review,,,,,John Doe,,No,,,1,3707,349
+01c230b3-fb6c-419b-bddb-05873f2aa8e0,1/17/2024,UX Designer,LinkedIn,Offer Made,1/24/2024,02-10-2024,,,Jane Smith,,No,,,4,7894,356
+a05ae9e6-31b0-46db-90d3-111d1dd0615b,03-02-2024,UX Designer,Company Website,Under Review,,,,,Jane Smith,,No,,,7,3883,34
+5f119475-c13c-4e68-9399-e6ea273ea91e,07-04-2024,UX Designer,Referral,Interview Scheduled,07-06-2024,,,,Jane Smith,,No,,,9,3458,279
+3864cfb8-6c2c-486a-a68d-ff83e958391f,01-07-2024,Product Manager,Indeed,Offer Made,05-12-2024,06-08-2024,,,John Doe,,No,,,6,1728,231
+9f6a0342-b7ad-4524-acc4-168800d5cc5f,4/18/2024,Software Engineer,LinkedIn,Hired,6/19/2024,7/14/2024,7/14/2024,,Michael Johnson,87,Yes,1843.65,1,9,2640,405
+d347e715-9b1f-4e1e-9542-58178bbb396f,2/28/2024,Data Analyst,LinkedIn,Application Received,,,,,Jane Smith,,No,,,5,8405,264
+a2c1dd05-dffb-47e4-9521-2d28d0e2a555,6/19/2024,Data Analyst,Indeed,Application Received,,,,,Emily Brown,,No,,,1,2124,371
+ee6f0ba4-807b-4b6e-9555-0df44c91dca0,7/15/2024,Data Analyst,CareerBuilder,Interview Scheduled,7/15/2024,,,,John Doe,,No,,,0,3907,101
+b55b2ccb-e713-480c-a0c9-187d0825bd70,3/17/2024,Business Analyst,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,7,2549,261
+af07edc2-8a01-4a58-aaf6-77bff1d769d6,2/28/2024,Product Manager,Indeed,Under Review,,,,,John Doe,,No,,,2,4767,14
+5bf424c4-06f2-4cde-9151-54a99b46ee56,1/30/2024,Data Analyst,CareerBuilder,Offer Made,03-06-2024,3/21/2024,,,Emily Brown,,No,,,8,4059,247
+d7f6a3bc-9999-47bf-9be1-0f55b971b626,02-04-2024,UX Designer,CareerBuilder,Interview Scheduled,2/26/2024,,,,Michael Johnson,,No,,,7,5779,285
+bcbc67a9-d2ce-43fb-93dc-9d733d8ffedb,1/15/2024,Product Manager,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,3,9744,490
+48668f7f-04b9-44b6-b6af-e495c9276e54,06-11-2024,Software Engineer,Indeed,Under Review,,,,,Michael Johnson,,No,,,8,1512,444
+3f5d52e1-38ab-4551-859c-2769415984c0,01-05-2024,Product Manager,Referral,Application Received,,,,,Michael Johnson,,No,,,0,5089,334
+f3898351-8a0b-4484-ab19-9c8c4f277838,01-09-2024,Data Analyst,Indeed,Offer Made,05-02-2024,06-11-2024,,,John Doe,,No,,,9,9908,287
+ecc49070-5ec7-49fe-8108-9e322172caf4,6/24/2024,UX Designer,LinkedIn,Interview Scheduled,07-09-2024,,,,John Doe,,No,,,10,5758,145
+1f50d23e-2565-4896-a5f9-e3af543107d2,6/30/2024,Software Engineer,Referral,Rejected,07-11-2024,,,07-12-2024,Emily Brown,,No,,,7,6902,453
+395e79cc-e735-460a-917d-4dfe260f55ff,04-02-2024,Data Analyst,CareerBuilder,Offer Made,05-04-2024,5/16/2024,,,Emily Brown,,No,,,3,8973,362
+abb0818c-647e-48ae-94ad-de3bede6bbc7,3/20/2024,Business Analyst,Indeed,Under Review,,,,,Jane Smith,,No,,,8,9905,159
+544c87e4-e338-493d-973f-128e9f5ee8e2,6/20/2024,Product Manager,Company Website,Interview Scheduled,6/30/2024,,,,Michael Johnson,,No,,,7,1430,161
+a39a091e-6664-4f3d-ac30-2638c431e1c8,03-06-2024,Software Engineer,Indeed,Hired,05-05-2024,05-09-2024,07-03-2024,,John Doe,119,Yes,1212.23,1,8,7934,378
+8775529a-8924-48c5-9085-68cf12d7ccef,01-02-2024,Data Analyst,Company Website,Application Received,,,,,Michael Johnson,,No,,,2,6797,20
+cf0b2b11-7560-44a1-bfda-da7b782d0477,02-09-2024,Business Analyst,Referral,Hired,04-04-2024,06-12-2024,6/22/2024,,John Doe,134,Yes,3768.36,3,6,9111,145
+efe80a4a-b9b5-419d-9ebb-6eaa03e0554f,2/26/2024,UX Designer,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,6,1649,171
+b37bb3dd-6bae-4ccf-af88-040c8c458215,3/13/2024,Software Engineer,Referral,Rejected,07-02-2024,,,07-03-2024,Jane Smith,,No,,,5,1736,162
+864cf5b8-5d53-44ee-98a9-a2bcd133476b,1/31/2024,Software Engineer,Referral,Offer Made,5/18/2024,06-11-2024,,,Michael Johnson,,No,,,3,3208,145
+54a7d3d4-85d7-4283-862f-27afac64e3df,01-04-2024,Business Analyst,Referral,Under Review,,,,,Jane Smith,,No,,,9,4483,418
+266e0c09-d3fe-477f-8974-7fce21bbf999,7/13/2024,Software Engineer,LinkedIn,Interview Scheduled,7/14/2024,,,,Michael Johnson,,No,,,6,5718,444
+f2283d18-be38-440b-a376-534826e5ce99,2/26/2024,Software Engineer,Indeed,Offer Made,6/18/2024,07-01-2024,,,Emily Brown,,No,,,6,8677,58
+afe92e31-8d29-4e9e-a5f0-1081dbfb33d5,4/14/2024,Software Engineer,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,5,9617,36
+cc443be2-ae2c-410d-b248-1400dd51bf19,03-07-2024,Business Analyst,LinkedIn,Application Received,,,,,Emily Brown,,No,,,7,519,62
+e6259e1c-40af-4ce3-804b-3eafad40b94d,05-01-2024,Business Analyst,Company Website,Offer Made,05-11-2024,06-12-2024,,,Michael Johnson,,No,,,0,331,272
+85500f7c-5c92-4368-807a-4eeae594e04f,01-09-2024,Software Engineer,CareerBuilder,Application Received,,,,,John Doe,,No,,,7,2670,301
+87a018d6-14d2-418f-b0c0-dba5b2a471d9,3/18/2024,Data Analyst,Referral,Application Received,,,,,Jane Smith,,No,,,0,1379,388
+16598fb0-723d-41af-8245-1a7f9cef2ed1,02-04-2024,Data Analyst,LinkedIn,Interview Scheduled,05-12-2024,,,,Emily Brown,,No,,,1,209,165
+d027cb72-dd21-456c-b7e4-b3dced2c85b1,1/25/2024,UX Designer,LinkedIn,Offer Made,06-11-2024,6/25/2024,,,Emily Brown,,No,,,2,2246,250
+d82ea6f3-3b0f-4b17-97de-5f5f809fa103,6/23/2024,Business Analyst,CareerBuilder,Application Received,,,,,John Doe,,No,,,9,4997,264
+ff3ea343-0aba-47f4-85bb-27d6c12e6a47,04-09-2024,Business Analyst,LinkedIn,Interview Scheduled,5/20/2024,,,,Emily Brown,,No,,,1,5295,138
+2a6073df-77a5-44f8-ab29-f180b7a82959,06-07-2024,Business Analyst,LinkedIn,Application Received,,,,,Emily Brown,,No,,,4,1387,102
+25f7f911-c1b5-4217-a196-3e646660f68a,4/17/2024,Product Manager,Company Website,Offer Made,6/29/2024,07-02-2024,,,Emily Brown,,No,,,0,3872,243
+bee39bde-6d52-4327-9814-e08351c51198,1/13/2024,Business Analyst,Indeed,Interview Scheduled,1/27/2024,,,,Jane Smith,,No,,,8,3739,479
+d4d50d27-3146-4ce2-844c-e27b5fc4e4f7,03-04-2024,Business Analyst,Indeed,Interview Scheduled,4/15/2024,,,,John Doe,,No,,,1,8768,476
+79976e5e-9e46-49eb-8719-dcd834e36452,4/26/2024,Business Analyst,CareerBuilder,Hired,7/15/2024,7/15/2024,7/15/2024,,Jane Smith,80,Yes,4190.87,2,6,9531,113
+49b77f5c-81da-48d3-97d5-8aab6ff8cf22,3/17/2024,Software Engineer,CareerBuilder,Under Review,,,,,Emily Brown,,No,,,7,7528,244
+c3cbcd77-7c28-4cb8-9533-c24a4bda0cdb,3/18/2024,Product Manager,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,9,2798,184
+a779408c-6e94-44e4-88a8-b63a9519ff88,05-10-2024,Software Engineer,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,7,3021,17
+370e407b-72ce-4f91-bf80-5ddb5a22e061,3/14/2024,UX Designer,Referral,Under Review,,,,,John Doe,,No,,,0,8400,274
+f170828a-d167-41fc-b40a-45e17d3c990f,06-04-2024,Data Analyst,Referral,Application Received,,,,,Michael Johnson,,No,,,1,6975,51
+d7ede5de-5f60-436b-a1b1-0a66e93dd1b3,06-07-2024,Business Analyst,Referral,Offer Made,6/21/2024,6/27/2024,,,Michael Johnson,,No,,,5,6992,0
+9ab2238a-0782-4e70-a1d5-c2a3c7ebeda3,03-08-2024,Data Analyst,CareerBuilder,Interview Scheduled,4/29/2024,,,,John Doe,,No,,,6,8507,488
+785ae915-f8db-4499-85ea-5339d7d02a54,06-10-2024,Product Manager,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,0,337,56
+b096b3db-2fb1-46f2-b37c-ec5bc07a0769,6/13/2024,UX Designer,LinkedIn,Hired,6/22/2024,07-04-2024,07-12-2024,,Jane Smith,29,Yes,1947.46,4,9,5511,279
+88d03e6c-f83c-4d91-9c74-a58c744c04a8,03-08-2024,Software Engineer,Referral,Under Review,,,,,Emily Brown,,No,,,0,9942,265
+df928f46-7877-4d9a-8144-5b1e226462eb,6/14/2024,Business Analyst,LinkedIn,Offer Made,07-12-2024,7/13/2024,,,Emily Brown,,No,,,7,6886,294
+2621ccca-ad0b-4ed8-ba82-86303c859951,07-04-2024,UX Designer,Company Website,Under Review,,,,,Emily Brown,,No,,,9,6668,261
+030c334e-7392-4c9e-9292-8a95ee5e9771,06-09-2024,Software Engineer,Company Website,Application Received,,,,,Jane Smith,,No,,,7,1835,284
+e9f8adfa-c5e4-49a0-a91f-087e163d1426,06-09-2024,UX Designer,Referral,Offer Made,6/21/2024,07-09-2024,,,Emily Brown,,No,,,3,4849,187
+92cdbe87-3504-4a9f-a395-8956f0e3f422,6/18/2024,Business Analyst,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,5,7867,115
+8dbe14ab-85ea-4b71-bb07-10b58cdb3041,03-09-2024,Software Engineer,Indeed,Application Received,,,,,Jane Smith,,No,,,9,4562,116
+a8242f1a-d84b-4aaa-a144-ecb3a10bdda9,5/28/2024,Product Manager,LinkedIn,Rejected,07-12-2024,,,7/13/2024,Emily Brown,,No,,,2,414,452
+d1f17456-1bc0-4f32-9d5b-e96d4b48ab04,01-04-2024,Business Analyst,Referral,Application Received,,,,,Emily Brown,,No,,,2,2136,77
+f6cd2edd-1553-49e8-900f-3f127c32348c,7/14/2024,Software Engineer,Company Website,Application Received,,,,,Michael Johnson,,No,,,5,1601,47
+761567d4-24d2-4b53-bea9-6db7842bbf59,06-06-2024,Business Analyst,Company Website,Application Received,,,,,Jane Smith,,No,,,0,1165,1
+e5fa68a0-94e6-4064-98cb-b3c9bcef979c,6/21/2024,UX Designer,Company Website,Interview Scheduled,7/15/2024,,,,Emily Brown,,No,,,6,4080,302
+75e2aaab-eac3-4f16-8c34-5255a5324fee,7/14/2024,Business Analyst,Company Website,Rejected,7/14/2024,,,7/15/2024,Jane Smith,,No,,,0,8207,448
+5e31b397-30b3-43fe-b3df-c0d5c56d5eb0,5/14/2024,Product Manager,Referral,Application Received,,,,,Jane Smith,,No,,,3,4127,334
+c162dc33-7075-4ec5-b925-301f49492195,6/19/2024,Business Analyst,Indeed,Application Received,,,,,Emily Brown,,No,,,8,6251,364
+989eeb72-c39b-4b69-a9af-1f8a92447874,6/22/2024,Data Analyst,LinkedIn,Application Received,,,,,Emily Brown,,No,,,3,5260,217
+79f1c9fe-cde1-490b-829c-7402dfa956c7,3/15/2024,Data Analyst,Company Website,Rejected,3/25/2024,,,5/18/2024,Michael Johnson,,No,,,7,5277,477
+e609a50b-574c-4a05-8f08-aaca2032583b,5/26/2024,Data Analyst,LinkedIn,Under Review,,,,,Michael Johnson,,No,,,6,3325,494
+e2f13671-7a07-4551-8bf5-b7da9b08f5c2,7/15/2024,UX Designer,LinkedIn,Offer Made,7/15/2024,7/15/2024,,,John Doe,,No,,,2,4165,464
+c11d412d-0866-44fe-af3f-4477e70275e3,03-05-2024,Business Analyst,Company Website,Interview Scheduled,05-02-2024,,,,Jane Smith,,No,,,8,4666,431
+385df5f4-7353-4ee8-810b-adff345268ed,02-01-2024,Product Manager,Company Website,Interview Scheduled,6/22/2024,,,,John Doe,,No,,,3,554,201
+87a9acd5-bb4d-4db2-80da-330d47423941,3/29/2024,Product Manager,LinkedIn,Application Received,,,,,Emily Brown,,No,,,7,3373,331
+7f1b34b7-1dfe-4b46-8bca-648e5eb8dd87,4/27/2024,Product Manager,Indeed,Offer Made,5/31/2024,07-06-2024,,,Jane Smith,,No,,,3,3666,345
+6dac58a2-711a-4d9e-bae6-32e04219e564,3/18/2024,Product Manager,CareerBuilder,Rejected,6/23/2024,,,6/28/2024,John Doe,,No,,,1,9587,291
+d8a26d1e-f5f4-46d8-9ce6-cbf3266cb05d,05-11-2024,Business Analyst,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,2,7696,0
+15ff95a4-c414-40fd-91a2-7391fd1665f9,04-05-2024,Business Analyst,Referral,Hired,07-02-2024,07-10-2024,7/14/2024,,Emily Brown,100,Yes,519.33,4,10,5891,491
+f2d2d775-bf57-4d46-835a-d8fea6676d0c,3/22/2024,Product Manager,Indeed,Application Received,,,,,Emily Brown,,No,,,0,4238,357
+a350bda3-63ab-453d-b97a-4e26a0cb067f,4/13/2024,UX Designer,Referral,Offer Made,4/18/2024,06-05-2024,,,Michael Johnson,,No,,,0,357,376
+fc473f06-8e26-45ce-b7ff-512b05e4fa4c,3/24/2024,Product Manager,Referral,Application Received,,,,,Emily Brown,,No,,,4,7416,312
+f3881e98-29df-4e6a-8278-bce8682f24f9,3/31/2024,Software Engineer,Referral,Offer Made,4/18/2024,05-10-2024,,,Emily Brown,,No,,,9,5506,65
+1a37a3ee-56e9-492c-a11f-11da96b2aef7,5/14/2024,UX Designer,Company Website,Under Review,,,,,John Doe,,No,,,6,8741,330
+9abfc031-b954-48cb-ba66-14290ecd8ffa,04-02-2024,Business Analyst,LinkedIn,Interview Scheduled,07-01-2024,,,,Emily Brown,,No,,,5,4512,418
+02c8a131-00de-4265-9edf-40e74ebd763f,2/13/2024,Data Analyst,Indeed,Application Received,,,,,Emily Brown,,No,,,2,994,287
+cdf3d598-706d-44e5-84c3-f2bfb877ddb0,04-09-2024,Data Analyst,Company Website,Application Received,,,,,Michael Johnson,,No,,,2,8067,171
+922050aa-46be-4710-bc7b-e2f0e9475be3,01-03-2024,Software Engineer,Company Website,Hired,2/29/2024,07-01-2024,7/14/2024,,Emily Brown,193,Yes,570.42,1,9,253,186
+726ea1c8-1dca-4f7d-b520-1e498f2ab7ff,03-11-2024,Data Analyst,Referral,Application Received,,,,,Michael Johnson,,No,,,4,5535,402
+a6c3c1be-c28a-4733-afd1-1f406f1dfbb0,02-11-2024,Product Manager,Indeed,Application Received,,,,,Emily Brown,,No,,,9,8321,65
+f237a6b6-8526-442d-853b-48757a17a1a2,6/30/2024,Business Analyst,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,4,5440,124
+fc96c755-ccd9-4f5a-8be3-bcebfa54ce77,02-05-2024,UX Designer,LinkedIn,Under Review,,,,,Emily Brown,,No,,,9,2579,410
+44f22045-a69c-4e79-b56b-55e4cafb4b69,05-01-2024,UX Designer,LinkedIn,Offer Made,07-07-2024,7/14/2024,,,Emily Brown,,No,,,3,9753,475
+b61fe711-0edd-421a-9ec6-be6df00ac409,6/30/2024,Product Manager,Company Website,Interview Scheduled,07-11-2024,,,,Jane Smith,,No,,,4,4306,492
+57798c89-71fb-4f63-8228-9e09f04962bb,5/13/2024,Data Analyst,LinkedIn,Offer Made,07-01-2024,07-03-2024,,,John Doe,,No,,,0,4933,448
+2229fc84-41ea-4e85-8d6e-6332abb312ca,02-04-2024,Business Analyst,Indeed,Hired,4/19/2024,4/29/2024,6/22/2024,,Michael Johnson,139,Yes,741.06,1,8,7074,495
+ca6900b3-1dc8-4fff-b341-cff43a8f3770,07-10-2024,UX Designer,Company Website,Application Received,,,,,Jane Smith,,No,,,10,3508,407
+994be21e-13ad-48d8-898b-997de0606d36,5/19/2024,Business Analyst,Indeed,Application Received,,,,,Jane Smith,,No,,,4,1125,122
+cb4a7a09-4d75-484f-bde6-e37d48283a01,5/14/2024,Software Engineer,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,7,6531,302
+de7f5002-6cfe-4b77-a56a-7b53ff0759ee,2/19/2024,Data Analyst,Indeed,Application Received,,,,,Michael Johnson,,No,,,5,9037,190
+f7ff5216-1365-4f57-889f-1eb4c14931fd,5/17/2024,Software Engineer,CareerBuilder,Interview Scheduled,06-08-2024,,,,Jane Smith,,No,,,3,5443,115
+89b62774-59db-47f8-ad8d-ababe80d57d7,5/23/2024,Data Analyst,LinkedIn,Interview Scheduled,06-08-2024,,,,Michael Johnson,,No,,,6,4981,59
+75c64fe0-0d54-467e-bd65-b28e6e6ff754,5/28/2024,UX Designer,Company Website,Interview Scheduled,06-06-2024,,,,Michael Johnson,,No,,,2,8591,210
+f2530401-2581-4abc-a30b-e6c78fd3c704,04-05-2024,Software Engineer,CareerBuilder,Application Received,,,,,John Doe,,No,,,7,9627,198
+c68c1e66-9be9-4db9-a0c1-227baa4f2c0a,6/22/2024,UX Designer,Referral,Application Received,,,,,Jane Smith,,No,,,4,5824,46
+252e4e54-529d-4e01-a92b-9afdb5915e5f,04-12-2024,Business Analyst,Company Website,Interview Scheduled,05-10-2024,,,,John Doe,,No,,,10,9494,208
+eaf4aef0-587b-4296-8e05-0954f803d120,2/19/2024,Product Manager,Indeed,Interview Scheduled,03-12-2024,,,,Emily Brown,,No,,,8,6014,392
+4fe014a2-f62b-4366-ae3d-9aca664a1eae,07-10-2024,Product Manager,Company Website,Offer Made,07-11-2024,7/14/2024,,,Jane Smith,,No,,,0,2118,122
+b4f21c6e-877b-43fe-8540-ba995cba6218,07-01-2024,Business Analyst,Referral,Application Received,,,,,Michael Johnson,,No,,,5,8789,265
+a57bdf31-c37a-4bf2-8f67-9978e0fc2ca3,3/31/2024,Product Manager,Company Website,Under Review,,,,,Jane Smith,,No,,,10,4863,494
+a2682a1b-7513-4ddd-859e-bcb94133eec0,02-02-2024,Business Analyst,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,10,5525,387
+e12f38f3-9f21-4584-adc1-419ca15879c3,1/27/2024,Business Analyst,LinkedIn,Under Review,,,,,Michael Johnson,,No,,,9,4941,62
+718f7bc5-2191-47d5-8d6b-d5ac1a480688,02-08-2024,UX Designer,Referral,Offer Made,02-08-2024,06-01-2024,,,Jane Smith,,No,,,8,8543,414
+ffa3e0a8-f679-4623-84bf-67030dc7829b,1/30/2024,Product Manager,Referral,Hired,06-07-2024,6/30/2024,07-12-2024,,Michael Johnson,164,Yes,4784.88,4,8,7092,250
+db63fb22-ddba-46c3-8473-e6de79610526,01-12-2024,Business Analyst,Company Website,Interview Scheduled,4/24/2024,,,,John Doe,,No,,,4,234,269
+3b828be7-be22-4dc8-990d-a3e04c3782ff,4/28/2024,Business Analyst,Company Website,Application Received,,,,,Emily Brown,,No,,,6,3241,41
+5e7a4d4c-7dca-412f-9d50-c4fd56b2435c,1/25/2024,UX Designer,LinkedIn,Application Received,,,,,Jane Smith,,No,,,4,8111,89
+7bd0922b-99a5-4cbc-af6e-0c077bbe0b4a,5/24/2024,Software Engineer,Company Website,Application Received,,,,,Emily Brown,,No,,,10,1826,188
+cb0f6b5a-ffb0-4960-a571-aa9d857eee66,06-06-2024,UX Designer,CareerBuilder,Interview Scheduled,6/25/2024,,,,Jane Smith,,No,,,3,2901,271
+19b43006-1f9d-4885-8a31-bf291ea4ad70,1/17/2024,UX Designer,Company Website,Interview Scheduled,05-01-2024,,,,John Doe,,No,,,0,405,487
+4e178345-2f3f-4db2-869e-e8adf67d1ad2,3/14/2024,Data Analyst,Referral,Application Received,,,,,Emily Brown,,No,,,5,2743,264
+8ea60910-bf38-4115-9b8c-3b535eeae5d1,5/18/2024,Data Analyst,LinkedIn,Offer Made,07-12-2024,7/13/2024,,,Emily Brown,,No,,,1,6493,164
+cfcda740-e2d3-4ec9-9da8-849657c2a882,1/30/2024,Product Manager,Indeed,Rejected,3/22/2024,,,05-03-2024,Michael Johnson,,No,,,7,4614,238
+fa60ea59-063b-47fa-a73e-1b662bc985d4,1/13/2024,Software Engineer,Indeed,Application Received,,,,,John Doe,,No,,,7,3568,309
+693d6af8-37ac-4bff-b925-b7554ba7fde1,3/16/2024,Business Analyst,Company Website,Interview Scheduled,6/26/2024,,,,Michael Johnson,,No,,,6,2159,294
+ed138ad5-407c-4a65-95a1-765002c1b59a,3/15/2024,Software Engineer,CareerBuilder,Hired,5/13/2024,6/24/2024,7/13/2024,,Jane Smith,120,Yes,2199.41,4,2,908,312
+d021af9a-eb5f-4507-b9a9-490df2467801,07-04-2024,UX Designer,LinkedIn,Application Received,,,,,Emily Brown,,No,,,10,9096,200
+9162d48c-70eb-49c1-b315-1e22690c2de0,1/21/2024,Software Engineer,Company Website,Application Received,,,,,Jane Smith,,No,,,2,7727,207
+53b30826-9788-4bbb-b84a-3877bd59b719,3/14/2024,Business Analyst,CareerBuilder,Rejected,6/20/2024,,,07-09-2024,Michael Johnson,,No,,,8,9107,364
+d9cda75b-80d2-47c1-acd5-ac92f2a61e6e,07-10-2024,Data Analyst,Company Website,Offer Made,7/13/2024,7/15/2024,,,John Doe,,No,,,10,2457,149
+fddcbd12-1708-42b4-8ae9-930a1a9be4ec,1/25/2024,Business Analyst,Indeed,Interview Scheduled,04-03-2024,,,,John Doe,,No,,,4,7319,421
+a36becad-50ef-48f3-8791-ab7668736ebe,3/24/2024,UX Designer,Indeed,Under Review,,,,,Michael Johnson,,No,,,8,4059,340
+5c4d2fb8-f1a6-4e44-99e2-c6fb9df3640c,2/21/2024,Software Engineer,Indeed,Under Review,,,,,Jane Smith,,No,,,10,8915,64
+752c140d-0301-4850-a26e-1af3f7730bab,5/28/2024,Business Analyst,Indeed,Under Review,,,,,Emily Brown,,No,,,7,776,318
+d3bb55d8-a79a-490c-86e2-51faea3b5c09,6/15/2024,Software Engineer,Referral,Under Review,,,,,John Doe,,No,,,6,4395,181
+7ff81a8c-f940-4363-b679-1e3eb88236d6,2/16/2024,Product Manager,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,10,4304,208
+bb2cdb4b-2809-4d07-9fdc-989ddd822203,06-09-2024,Data Analyst,Referral,Rejected,6/14/2024,,,6/29/2024,Michael Johnson,,No,,,0,9659,383
+62bf6924-bc81-4ae8-a06d-86a692d1efd2,03-11-2024,UX Designer,Referral,Rejected,5/23/2024,,,5/23/2024,Michael Johnson,,No,,,4,2877,128
+ebd86fbd-5d6e-4f35-b8e1-a3613188d17a,07-10-2024,UX Designer,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,5,7420,2
+9138698b-a105-4f62-8b5e-ea07efffbd85,01-01-2024,Software Engineer,Company Website,Under Review,,,,,Emily Brown,,No,,,7,8807,299
+363b247c-c514-4ebb-aef1-4a220eee9d23,3/15/2024,UX Designer,Indeed,Application Received,,,,,Michael Johnson,,No,,,5,5602,311
+23cc01ae-8c8d-4e76-9b1c-a73a2ebc4464,4/17/2024,Business Analyst,Company Website,Application Received,,,,,Emily Brown,,No,,,4,8679,303
+f8056c5b-f26d-41cc-96cc-8837d0ee25ed,06-06-2024,UX Designer,CareerBuilder,Interview Scheduled,6/15/2024,,,,John Doe,,No,,,10,2933,212
+73e274c7-1932-40c4-b5d2-f309a0e0c6bc,3/22/2024,Data Analyst,Indeed,Hired,06-02-2024,6/13/2024,6/15/2024,,Michael Johnson,85,Yes,4044.95,1,0,6005,4
+893a4b10-9ab5-4868-b48a-fdb5ecc0e41b,2/27/2024,UX Designer,CareerBuilder,Application Received,,,,,John Doe,,No,,,3,8813,177
+9ad09998-66a6-4692-a3b7-3eaa8ebcfddc,3/30/2024,Business Analyst,Company Website,Offer Made,5/18/2024,07-10-2024,,,Michael Johnson,,No,,,0,1494,360
+9958fd6b-b8c8-47b1-88d8-26095a4b6f8b,04-12-2024,UX Designer,Company Website,Under Review,,,,,Michael Johnson,,No,,,6,5362,466
+ed254d15-2d74-43ac-9767-4e3a9b727063,7/15/2024,Business Analyst,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,9,4009,398
+2f2f2da4-2d22-4173-8fc5-46417f82bfa5,04-05-2024,Data Analyst,Company Website,Application Received,,,,,John Doe,,No,,,0,2877,231
+ce84abf1-4652-417f-aa25-248f264e9149,6/14/2024,Software Engineer,LinkedIn,Application Received,,,,,John Doe,,No,,,6,9147,316
+a8d54ee9-0c01-482e-9511-65eed3409c99,04-01-2024,Product Manager,Indeed,Under Review,,,,,John Doe,,No,,,2,8488,445
+4773ef95-e049-45de-8f51-7d6e4c02c25f,01-01-2024,Product Manager,LinkedIn,Offer Made,4/20/2024,06-04-2024,,,Michael Johnson,,No,,,5,3555,121
+a1704530-6281-4929-8d02-423f592986de,07-12-2024,Product Manager,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,5,4326,323
+1d10a860-554e-4ab3-9b6f-c926577abab3,01-06-2024,Business Analyst,CareerBuilder,Under Review,,,,,Michael Johnson,,No,,,4,1425,391
+7704209c-13e4-4f0d-bd6b-b669cae3d58b,1/13/2024,Software Engineer,Referral,Offer Made,04-07-2024,4/26/2024,,,John Doe,,No,,,5,7208,220
+de83987f-03b1-4804-a695-6aafece87d94,07-05-2024,Product Manager,LinkedIn,Interview Scheduled,07-05-2024,,,,John Doe,,No,,,9,7094,412
+a3a37634-3002-4467-b047-18cbed875ac6,02-08-2024,Business Analyst,Company Website,Under Review,,,,,John Doe,,No,,,9,3225,391
+bbdf11c8-64c6-49d4-9429-678e2f6d8c19,03-11-2024,Business Analyst,Referral,Interview Scheduled,6/28/2024,,,,John Doe,,No,,,7,6091,184
+c11cedd9-0ce4-44f9-b692-07f5d81d451b,01-11-2024,UX Designer,Indeed,Offer Made,6/18/2024,6/22/2024,,,Michael Johnson,,No,,,1,4186,14
+289fcf81-d895-4143-9a72-70ef18a782ee,5/25/2024,Software Engineer,Indeed,Under Review,,,,,Michael Johnson,,No,,,1,4905,83
+69b1a98b-b051-4eda-83f1-e47f07f9a1c9,2/16/2024,UX Designer,Indeed,Application Received,,,,,Michael Johnson,,No,,,1,3919,174
+88fa3fd7-0ff1-4381-9d2d-fdd1acc82c62,02-11-2024,Product Manager,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,4,8052,217
+8c437455-d4c3-4b41-a919-7f73043ecd6e,07-10-2024,Business Analyst,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,1,7371,409
+a592193b-5207-4e23-88a4-a90ac893893b,05-01-2024,Business Analyst,LinkedIn,Interview Scheduled,06-09-2024,,,,Jane Smith,,No,,,9,2097,425
+78552094-18da-4abb-bb7c-41e519a96a21,04-05-2024,Data Analyst,Indeed,Rejected,07-12-2024,,,7/15/2024,John Doe,,No,,,2,1798,188
+5f193c88-edc7-45f6-a1b1-f506fd1f8362,01-03-2024,Business Analyst,Indeed,Under Review,,,,,Michael Johnson,,No,,,9,2876,193
+6c0e661f-944e-4fd2-a9da-28114426f526,3/29/2024,Software Engineer,LinkedIn,Offer Made,5/28/2024,6/15/2024,,,Michael Johnson,,No,,,4,5528,358
+13789ade-cb97-4a8e-87d2-cf711a36071c,04-08-2024,Product Manager,Referral,Interview Scheduled,5/18/2024,,,,Jane Smith,,No,,,2,3734,286
+747efcb1-0be6-45a2-a6d2-bf24eb513929,6/21/2024,Data Analyst,Company Website,Offer Made,07-03-2024,07-05-2024,,,John Doe,,No,,,3,4741,74
+ed315cf4-0a68-4cca-8c19-49a6c3d36be9,4/15/2024,Data Analyst,CareerBuilder,Offer Made,06-03-2024,07-12-2024,,,John Doe,,No,,,4,4160,260
+5656f651-f1af-49c0-81a2-add62e42554d,5/23/2024,Software Engineer,Referral,Hired,7/15/2024,7/15/2024,7/15/2024,,Michael Johnson,53,Yes,4196.55,2,10,9350,12
+98f0e053-2a56-4892-a795-a2e1f0995f0e,1/24/2024,Business Analyst,Company Website,Interview Scheduled,06-01-2024,,,,Jane Smith,,No,,,7,549,302
+1abc0abc-7638-4231-a018-32f6db88fe09,04-10-2024,UX Designer,Referral,Hired,05-10-2024,07-09-2024,07-11-2024,,Emily Brown,92,Yes,2593.83,2,0,9231,112
+fdebebf7-93f6-402d-980c-85305cdf1a95,5/30/2024,Software Engineer,LinkedIn,Interview Scheduled,07-12-2024,,,,Michael Johnson,,No,,,2,9954,300
+69c06c94-c7c9-47b5-9c14-add27c77c991,4/28/2024,Product Manager,Company Website,Interview Scheduled,6/22/2024,,,,John Doe,,No,,,9,869,337
+b80881bc-1999-4f93-92d6-2a223ea1c017,04-05-2024,Business Analyst,LinkedIn,Application Received,,,,,Jane Smith,,No,,,9,3055,163
+708e621f-9833-46df-ac1e-3dd9cb91d005,3/21/2024,Product Manager,CareerBuilder,Under Review,,,,,Emily Brown,,No,,,0,3874,123
+244cfdd3-e518-475d-8faf-a90a7ba8bc85,01-02-2024,Data Analyst,Company Website,Under Review,,,,,Emily Brown,,No,,,9,6847,16
+e7f7c48d-0085-4992-9de3-a84fda4bfcc8,3/27/2024,Data Analyst,LinkedIn,Offer Made,5/26/2024,6/16/2024,,,Michael Johnson,,No,,,8,3568,469
+efa93c17-fb67-4b22-82ea-a2c3ceb4aa34,6/28/2024,Software Engineer,Company Website,Under Review,,,,,Jane Smith,,No,,,8,5262,274
+2042a4fa-d0b6-4966-87c5-486332025297,03-02-2024,Product Manager,Company Website,Under Review,,,,,Jane Smith,,No,,,1,8157,82
+91afb279-ce5a-4725-af51-1f8224175bbd,05-07-2024,Business Analyst,LinkedIn,Under Review,,,,,Jane Smith,,No,,,7,561,197
+a86c53d9-d75d-4547-8338-6e20d151bc69,3/26/2024,Data Analyst,CareerBuilder,Application Received,,,,,John Doe,,No,,,2,6890,318
+d9cf4007-55ab-422c-a49f-568e930ba646,2/16/2024,Data Analyst,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,8,7789,475
+0f891949-3355-479e-860a-15798ae323b7,3/16/2024,Software Engineer,LinkedIn,Offer Made,06-02-2024,6/19/2024,,,John Doe,,No,,,8,461,148
+0b92426d-76d3-4316-9110-7d1e8cdabf76,5/14/2024,Product Manager,LinkedIn,Hired,6/24/2024,6/24/2024,6/28/2024,,John Doe,45,Yes,2996.74,1,7,3256,24
+8faadd52-b59d-4560-a353-9696e9654053,02-12-2024,Product Manager,Company Website,Interview Scheduled,3/15/2024,,,,John Doe,,No,,,9,9729,238
+d4c914fc-0961-4588-9b56-ba4b13efae11,6/26/2024,UX Designer,Referral,Offer Made,07-09-2024,07-10-2024,,,Michael Johnson,,No,,,8,8698,439
+3e487fd9-cacc-4be1-b660-a7fecf9a0265,2/22/2024,UX Designer,LinkedIn,Offer Made,4/25/2024,5/27/2024,,,Emily Brown,,No,,,6,369,205
+686a5085-6594-46d3-9f9c-c9131d1f92f5,1/16/2024,Data Analyst,CareerBuilder,Hired,05-03-2024,6/17/2024,07-09-2024,,Michael Johnson,175,Yes,895.05,5,0,5673,46
+24529821-0300-4324-9f49-a42c212f7721,02-11-2024,Product Manager,Indeed,Application Received,,,,,Jane Smith,,No,,,2,2894,213
+3caa608b-0dfe-4c64-82e2-178f90d9315a,03-03-2024,Software Engineer,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,2,5155,258
+ac6e91ef-0420-4afa-a183-b80724d9836a,4/30/2024,UX Designer,CareerBuilder,Under Review,,,,,John Doe,,No,,,5,3996,378
+f83c6cfc-3734-4a30-847d-32a3c5c7766f,2/26/2024,UX Designer,Referral,Interview Scheduled,04-06-2024,,,,Michael Johnson,,No,,,10,3261,193
+95948483-955f-4606-a8bf-939152f20349,3/30/2024,Data Analyst,CareerBuilder,Interview Scheduled,6/26/2024,,,,Jane Smith,,No,,,2,8902,232
+72577640-4423-409f-9829-15f28d997f74,4/14/2024,UX Designer,Company Website,Offer Made,05-01-2024,5/18/2024,,,John Doe,,No,,,3,3238,191
+967cbd93-bf51-42a7-908c-f149b284961b,05-07-2024,Product Manager,Referral,Under Review,,,,,John Doe,,No,,,0,4559,238
+c420129f-8fff-4c75-b44f-19ba3fbe26e0,05-07-2024,UX Designer,CareerBuilder,Offer Made,6/14/2024,07-11-2024,,,Michael Johnson,,No,,,3,7562,22
+976cc415-5026-4184-add8-c7c50602bb4b,07-08-2024,Data Analyst,Indeed,Rejected,07-11-2024,,,7/15/2024,Emily Brown,,No,,,5,7934,495
+2a0b6155-9178-435a-9de4-76175ef4fcfb,02-12-2024,Software Engineer,CareerBuilder,Hired,06-11-2024,6/24/2024,6/27/2024,,Michael Johnson,136,Yes,2133.58,2,1,9420,408
+32b54bc5-d597-4c99-b26b-f6aade75ff6b,2/21/2024,Product Manager,Referral,Hired,04-10-2024,6/27/2024,07-06-2024,,John Doe,136,Yes,3609.81,5,7,8284,157
+82ee6d68-81ab-45d4-b1cf-04c54043fba8,6/13/2024,Data Analyst,Referral,Hired,07-07-2024,07-08-2024,7/14/2024,,Michael Johnson,31,Yes,2586.85,5,6,3938,240
+9d5a40a9-51f4-462d-9857-bb674c36a7b5,03-02-2024,Data Analyst,Referral,Application Received,,,,,Jane Smith,,No,,,6,7634,466
+41adcbd1-f995-4eec-840d-595185c6ed03,01-02-2024,Business Analyst,Indeed,Interview Scheduled,03-04-2024,,,,Jane Smith,,No,,,3,6376,1
+219a0a45-102b-46d9-9697-3150ae4143d8,1/22/2024,Product Manager,CareerBuilder,Interview Scheduled,02-05-2024,,,,Jane Smith,,No,,,6,3576,75
+485ecc51-fc23-4739-9015-acf71abf6b83,3/20/2024,UX Designer,Referral,Hired,7/13/2024,7/15/2024,7/15/2024,,Emily Brown,117,Yes,924.93,4,8,4133,43
+5db262ef-f466-4c1d-af14-7372936936d5,05-06-2024,Software Engineer,LinkedIn,Rejected,6/28/2024,,,6/28/2024,Jane Smith,,No,,,9,3063,319
+c9b6514c-350b-4ffd-8dc8-ec5a65023322,1/23/2024,Data Analyst,CareerBuilder,Hired,5/20/2024,07-09-2024,07-11-2024,,Emily Brown,170,Yes,4037.45,3,2,1737,190
+89eb7176-1082-444f-8ac2-0bcd3e180180,4/13/2024,Software Engineer,LinkedIn,Under Review,,,,,Jane Smith,,No,,,6,7279,286
+2ba7b953-445d-4ffc-80ea-0af13495b3f3,03-01-2024,Software Engineer,Company Website,Under Review,,,,,Jane Smith,,No,,,2,6174,488
+29ad1140-c515-4175-b5f2-ae6b8786f027,01-09-2024,Business Analyst,LinkedIn,Application Received,,,,,Emily Brown,,No,,,4,4144,488
+eedb7047-0105-489a-aba3-2717a2e2c588,01-08-2024,Product Manager,Referral,Hired,3/17/2024,4/24/2024,06-10-2024,,John Doe,154,Yes,1942.01,3,8,9635,13
+eb61370a-dc86-463f-9190-d2d49e41e435,1/21/2024,Business Analyst,CareerBuilder,Rejected,04-10-2024,,,04-10-2024,Michael Johnson,,No,,,9,105,171
+2b76e6de-ccc1-47df-b99b-fec05ac8f8f5,07-03-2024,Business Analyst,Indeed,Application Received,,,,,Michael Johnson,,No,,,3,5707,258
+9723bb37-0759-49ae-a981-a7d09e6b9f76,5/18/2024,Software Engineer,LinkedIn,Under Review,,,,,Jane Smith,,No,,,5,1409,257
+f596b065-013c-4d3f-88bd-4963afb37acb,3/20/2024,Product Manager,Indeed,Application Received,,,,,John Doe,,No,,,0,9654,173
+7ce1de96-b022-47dd-8a93-8de2154a6b20,3/26/2024,Business Analyst,LinkedIn,Under Review,,,,,John Doe,,No,,,10,6059,469
+52dd152c-f754-4b64-9f51-c6bb79455448,5/16/2024,Product Manager,Company Website,Application Received,,,,,Jane Smith,,No,,,5,8870,220
+6d8f7f92-7d69-45d3-9262-b39845378d29,2/25/2024,Data Analyst,Referral,Under Review,,,,,Jane Smith,,No,,,8,6610,67
+03aaa673-22a8-44db-ba5a-834b0d69362c,5/14/2024,Data Analyst,Company Website,Under Review,,,,,Emily Brown,,No,,,9,6154,153
+dbc65446-d6c6-49ca-9f4e-40548153dd50,4/28/2024,Data Analyst,Referral,Application Received,,,,,Emily Brown,,No,,,2,2539,456
+66f81ac4-db6c-49e7-bea8-ead29994baff,04-07-2024,Business Analyst,Indeed,Application Received,,,,,Michael Johnson,,No,,,3,7554,462
+574b422f-563e-4014-92ed-4a34ea599eb3,07-03-2024,Software Engineer,Indeed,Offer Made,7/14/2024,7/14/2024,,,Emily Brown,,No,,,7,423,474
+3c19eee1-07c3-487a-ba2a-8918bedc5a4b,04-12-2024,Product Manager,Referral,Interview Scheduled,6/14/2024,,,,Emily Brown,,No,,,6,4772,62
+9b65fc00-6d75-4929-b728-29ebb3a1004e,6/25/2024,UX Designer,Company Website,Offer Made,6/25/2024,07-05-2024,,,John Doe,,No,,,0,3573,15
+0432a65b-5f3a-441a-b3d3-d3a818c0d8cb,1/31/2024,UX Designer,CareerBuilder,Interview Scheduled,6/26/2024,,,,Michael Johnson,,No,,,6,6348,0
+22c1252c-18d6-41f0-97a7-faa99eb6ae4f,5/14/2024,UX Designer,Company Website,Offer Made,5/25/2024,7/14/2024,,,Emily Brown,,No,,,0,228,346
+70ec6f32-14ac-463e-b025-da89858c473d,04-10-2024,Data Analyst,Indeed,Under Review,,,,,Jane Smith,,No,,,5,3108,118
+237e6886-cf6e-4d07-b3f5-85373ef7fe36,5/29/2024,Software Engineer,Referral,Under Review,,,,,John Doe,,No,,,2,3616,399
+18cbbf09-2d1d-4008-9829-223d441639db,02-07-2024,Software Engineer,CareerBuilder,Offer Made,07-02-2024,07-03-2024,,,John Doe,,No,,,0,9942,456
+d3025f9f-8091-4cbb-aa3a-2214fb2fc530,5/19/2024,Business Analyst,Company Website,Interview Scheduled,7/14/2024,,,,Michael Johnson,,No,,,2,7912,59
+ebb81647-0165-46a7-aa57-562486c2e72c,5/26/2024,Business Analyst,CareerBuilder,Interview Scheduled,06-06-2024,,,,John Doe,,No,,,3,6437,110
+b2df4579-873e-4c07-9f81-1d6e83e86324,4/19/2024,Product Manager,CareerBuilder,Hired,5/15/2024,07-09-2024,7/13/2024,,Michael Johnson,85,Yes,1617.46,2,10,3068,281
+6617956a-58ae-480a-9f80-4e309100f887,01-07-2024,Data Analyst,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,0,4378,276
+2a30ee33-cca6-44dd-8421-22b59eec10d5,02-09-2024,Data Analyst,Indeed,Interview Scheduled,07-11-2024,,,,Michael Johnson,,No,,,2,9154,383
+87958235-e405-4fac-9242-b4ac18b16ff2,04-04-2024,Product Manager,Indeed,Offer Made,7/14/2024,7/14/2024,,,Jane Smith,,No,,,4,9740,222
+779e9435-36f9-4dfd-b36b-57c5438e10e7,7/14/2024,Business Analyst,LinkedIn,Interview Scheduled,7/15/2024,,,,John Doe,,No,,,3,1289,235
+ad403367-6274-4373-9f4a-82d3421fc1c7,01-06-2024,Product Manager,Indeed,Interview Scheduled,3/20/2024,,,,Michael Johnson,,No,,,4,8115,32
+61b4c357-2ac2-4d2a-bc2b-1993367b6e24,05-04-2024,Business Analyst,Indeed,Interview Scheduled,6/21/2024,,,,Emily Brown,,No,,,10,116,364
+448efe99-ac51-4736-8174-8273e4067190,04-10-2024,UX Designer,Referral,Application Received,,,,,Michael Johnson,,No,,,1,933,284
+4efa400d-871c-4189-a290-4a97ac96e489,01-06-2024,Software Engineer,Referral,Offer Made,05-08-2024,07-05-2024,,,Jane Smith,,No,,,8,8266,176
+10e48abc-a22c-4396-8057-c20e6e16ef4f,6/15/2024,Software Engineer,Company Website,Offer Made,7/15/2024,7/15/2024,,,John Doe,,No,,,1,8271,299
+acf02b26-cde9-4dde-a07f-b2d087997ee0,3/19/2024,Business Analyst,Company Website,Interview Scheduled,04-08-2024,,,,Michael Johnson,,No,,,6,8859,378
+1c94316f-9ee0-4fa9-85fd-b0c6b5fad7b8,02-09-2024,Product Manager,LinkedIn,Offer Made,6/30/2024,7/14/2024,,,Jane Smith,,No,,,6,3092,470
+6b6da138-4a06-4415-8583-7045c8d50779,4/16/2024,Product Manager,Indeed,Application Received,,,,,Michael Johnson,,No,,,8,984,229
+f72ba00e-532f-471f-8156-5bea4f1f6a22,1/31/2024,Software Engineer,Referral,Offer Made,02-11-2024,05-03-2024,,,Jane Smith,,No,,,0,9692,304
+f8eb0729-bf81-484e-b6f7-3d1a0ac2da1b,1/20/2024,Software Engineer,Indeed,Application Received,,,,,Emily Brown,,No,,,2,3364,204
+d8d08fdf-747c-4db2-8493-8a40f90d6fdb,07-03-2024,Software Engineer,LinkedIn,Under Review,,,,,Michael Johnson,,No,,,3,7151,377
+320467a5-455c-47f5-8347-d9d0dc570a65,06-11-2024,Software Engineer,Company Website,Under Review,,,,,Emily Brown,,No,,,8,2111,327
+c4c2ab4e-bc76-4f9d-b4a5-31bdbfafe44f,3/15/2024,Business Analyst,CareerBuilder,Interview Scheduled,4/29/2024,,,,Michael Johnson,,No,,,9,9721,134
+a63c470c-ac05-47bf-bf5b-b8fa9259fda0,2/18/2024,Software Engineer,Company Website,Application Received,,,,,John Doe,,No,,,5,3629,170
+85b1b42a-c8ef-4c8e-b3cb-c0f6ccef8757,05-09-2024,Product Manager,LinkedIn,Under Review,,,,,John Doe,,No,,,8,1605,83
+eccd3366-9750-48ec-bc62-8eccea94c1f1,5/23/2024,UX Designer,Indeed,Offer Made,6/18/2024,6/28/2024,,,Jane Smith,,No,,,0,5180,286
+0aec1f99-7a18-4797-ae6a-7a8aef0657d5,6/13/2024,Product Manager,LinkedIn,Interview Scheduled,07-09-2024,,,,Jane Smith,,No,,,8,6946,241
+71b54cdd-4d7b-4443-92bb-2be8edf08452,07-06-2024,UX Designer,Indeed,Application Received,,,,,John Doe,,No,,,1,7055,339
+1ab05332-b23e-4d21-9e42-be9227505b5a,06-02-2024,UX Designer,Referral,Offer Made,07-01-2024,07-09-2024,,,Michael Johnson,,No,,,4,2612,215
+0d2f4f7a-a060-49bb-b6e0-67ff64657c40,02-08-2024,UX Designer,CareerBuilder,Hired,02-08-2024,6/15/2024,6/29/2024,,Emily Brown,142,Yes,4941.31,4,2,5935,269
+04a08dad-3eab-44b9-b312-00c3bc347626,1/17/2024,Software Engineer,LinkedIn,Offer Made,4/15/2024,4/23/2024,,,Emily Brown,,No,,,0,6214,136
+fb249c4d-5e72-49d3-bfce-dcc14fd74a83,6/28/2024,Software Engineer,Indeed,Hired,7/15/2024,7/15/2024,7/15/2024,,Emily Brown,17,Yes,4599.38,2,7,7556,167
+98091a7d-3a18-4207-97db-5ca4bd1594f0,5/18/2024,Product Manager,CareerBuilder,Offer Made,07-12-2024,07-12-2024,,,Michael Johnson,,No,,,4,6127,293
+3d8cd8c1-ad3e-4775-a81d-dba85ff17e28,04-06-2024,Product Manager,Indeed,Offer Made,4/30/2024,5/17/2024,,,John Doe,,No,,,7,5261,443
+be3cbd05-c2b4-4d4a-804b-d07c6164caf3,1/14/2024,UX Designer,Company Website,Hired,5/19/2024,06-06-2024,7/15/2024,,Emily Brown,183,Yes,1101.57,5,0,8854,384
+4d21a6a9-66f9-4bb1-b36f-56b5f4ddc06f,1/30/2024,Business Analyst,Referral,Interview Scheduled,3/29/2024,,,,Michael Johnson,,No,,,2,6142,277
+14e82beb-4f59-43d8-8921-1821adfaaa49,03-09-2024,UX Designer,Indeed,Interview Scheduled,6/26/2024,,,,John Doe,,No,,,2,9922,199
+ee358690-37ba-44be-a3ae-b864daf1da38,02-04-2024,Product Manager,CareerBuilder,Interview Scheduled,5/22/2024,,,,Emily Brown,,No,,,10,1338,349
+0b02f467-054d-4616-b710-282208b396b5,05-02-2024,Software Engineer,Company Website,Application Received,,,,,Michael Johnson,,No,,,4,3403,448
+9e29bf1e-332a-452b-a5ab-d3b7da36f791,01-09-2024,Software Engineer,Indeed,Application Received,,,,,Emily Brown,,No,,,6,3261,133
+c6126eef-1b77-467b-9ff0-d4705a48ed35,1/21/2024,Data Analyst,LinkedIn,Hired,05-01-2024,07-04-2024,07-10-2024,,John Doe,171,Yes,3985.76,4,6,6033,90
+dfdcdc73-e00b-4a68-b905-4c6d3590b09b,1/15/2024,Business Analyst,Indeed,Interview Scheduled,06-10-2024,,,,Emily Brown,,No,,,6,4563,485
+9d99a1ff-2b8f-420e-bed7-76e3f95e15cf,02-08-2024,UX Designer,Indeed,Interview Scheduled,5/30/2024,,,,Jane Smith,,No,,,10,6483,249
+4800777a-c891-4acc-bd4f-16e2d944276c,06-04-2024,Data Analyst,LinkedIn,Under Review,,,,,John Doe,,No,,,3,3788,146
+7a250890-5cb6-4147-9222-49a380aa3c55,07-06-2024,Business Analyst,Indeed,Application Received,,,,,Emily Brown,,No,,,4,700,43
+e5cb18cb-aadf-4313-a4fd-a88e01912b5f,04-02-2024,Software Engineer,Referral,Application Received,,,,,John Doe,,No,,,1,7984,460
+a1966822-c551-4c7c-9c14-b87998676512,1/22/2024,Data Analyst,Company Website,Offer Made,1/25/2024,03-12-2024,,,Jane Smith,,No,,,3,9735,191
+829c7212-48f4-4438-91ce-9ab967f548fe,7/15/2024,Product Manager,Referral,Interview Scheduled,7/15/2024,,,,John Doe,,No,,,10,7080,266
+9346bdb8-577b-48a1-9356-2d86d647c987,2/19/2024,Data Analyst,LinkedIn,Application Received,,,,,John Doe,,No,,,2,1144,315
+03b9dfb1-641f-4b81-a96f-60406c5f9fc7,2/13/2024,Data Analyst,Company Website,Under Review,,,,,Michael Johnson,,No,,,9,3621,306
+867dcec4-dc19-4b9e-832d-18031930fcdd,5/13/2024,Business Analyst,Referral,Interview Scheduled,06-09-2024,,,,Emily Brown,,No,,,4,2600,463
+8251cb76-f2b5-44a2-b0ad-aea988aa2a9a,1/28/2024,Business Analyst,Indeed,Application Received,,,,,Michael Johnson,,No,,,6,8824,95
+6c844360-4301-4852-aec7-714fe5f30a4a,05-09-2024,UX Designer,Indeed,Interview Scheduled,5/29/2024,,,,Michael Johnson,,No,,,5,8850,147
+a6acf9e1-4a04-4ea1-bc82-4045af0298e3,3/15/2024,Product Manager,Company Website,Under Review,,,,,Michael Johnson,,No,,,6,334,368
+9a1ba8ad-0f7c-4fa0-86e2-e8adaaad2e5b,07-11-2024,Software Engineer,Referral,Under Review,,,,,Jane Smith,,No,,,0,8800,171
+90210ae5-0848-49a9-8179-6ba025612878,01-03-2024,UX Designer,Indeed,Offer Made,4/14/2024,4/16/2024,,,Emily Brown,,No,,,9,2935,481
+fda28945-0e33-4da5-bbf6-73016713f269,5/16/2024,Software Engineer,LinkedIn,Interview Scheduled,07-08-2024,,,,Michael Johnson,,No,,,5,963,282
+fc8d7647-6b92-4b39-a160-5db885aaf728,1/16/2024,Business Analyst,LinkedIn,Interview Scheduled,3/19/2024,,,,Emily Brown,,No,,,6,6736,487
+007692e5-9258-406b-9fdd-e29b77a17dfa,04-08-2024,Business Analyst,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,3,6602,87
+40ae1d18-84de-443a-bd7a-5ebedd15f4a9,06-04-2024,Product Manager,Company Website,Rejected,6/30/2024,,,07-01-2024,John Doe,,No,,,5,3683,470
+33d12a16-84d8-4a84-90a6-6a8ed1ebe0cf,5/15/2024,Business Analyst,CareerBuilder,Hired,5/27/2024,06-03-2024,06-08-2024,,Jane Smith,24,Yes,1328.11,2,6,7322,165
+dc44d751-7dcb-4d35-a081-fc12dac1bb5c,04-07-2024,Data Analyst,LinkedIn,Offer Made,06-06-2024,07-02-2024,,,Michael Johnson,,No,,,3,5307,56
+2b8355ac-a6ef-4414-a80d-7e2084c67026,05-02-2024,UX Designer,Indeed,Offer Made,07-08-2024,07-12-2024,,,Michael Johnson,,No,,,8,151,363
+d2229c60-9210-4efb-a2ca-87c3b72d1918,1/30/2024,UX Designer,Referral,Under Review,,,,,Emily Brown,,No,,,6,9790,175
+5a828930-bd7d-4d82-abed-f4f3a5c0c7f1,3/13/2024,Business Analyst,CareerBuilder,Hired,4/19/2024,06-02-2024,07-08-2024,,Emily Brown,117,Yes,2390.64,4,4,7823,4
+2f1bbab5-e35b-43c4-a130-5a747b3209f2,01-11-2024,Business Analyst,Indeed,Interview Scheduled,05-07-2024,,,,John Doe,,No,,,5,2329,338
+67b51f89-7c9f-48c4-9744-b0c5d7d9b967,5/14/2024,Product Manager,Company Website,Hired,07-06-2024,07-07-2024,07-09-2024,,Jane Smith,56,Yes,1960.33,4,10,6849,417
+1b4bb393-c9f0-4b56-adab-808caf521d78,05-07-2024,Business Analyst,Referral,Interview Scheduled,5/18/2024,,,,Emily Brown,,No,,,3,2482,35
+b5526971-9dbc-41f9-a6b3-161a19998fbf,3/21/2024,Business Analyst,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,0,8005,60
+b7fd0521-0fa2-49b0-a729-ceab466af073,03-06-2024,Business Analyst,CareerBuilder,Offer Made,5/17/2024,07-03-2024,,,John Doe,,No,,,6,9380,354
+a94ba24f-751e-4829-a264-2e79e4d2f6e5,07-07-2024,UX Designer,Indeed,Offer Made,07-09-2024,07-11-2024,,,Jane Smith,,No,,,10,8941,493
+c4c4a9b0-a6a1-4957-bed1-51583556822f,06-02-2024,Data Analyst,Indeed,Interview Scheduled,6/25/2024,,,,John Doe,,No,,,2,9286,296
+c73aa526-7407-4dd5-ac7a-b41478fbb9b9,5/18/2024,Data Analyst,Referral,Under Review,,,,,Michael Johnson,,No,,,0,1693,418
+94a1bf67-cfc1-4b88-bd43-224bf1296a12,01-05-2024,Business Analyst,Company Website,Interview Scheduled,02-11-2024,,,,Michael Johnson,,No,,,10,4157,173
+b7ec4d8d-58b2-4b19-8602-4c66a3304e3c,3/24/2024,Product Manager,CareerBuilder,Interview Scheduled,6/20/2024,,,,Emily Brown,,No,,,9,6540,349
+085bad7a-c35c-44e5-8b91-030a5a30f2af,02-04-2024,Software Engineer,Indeed,Under Review,,,,,Jane Smith,,No,,,7,4682,303
+9e700f5e-5682-4e93-be80-120149501163,05-06-2024,Software Engineer,Company Website,Hired,7/14/2024,7/15/2024,7/15/2024,,Michael Johnson,70,Yes,3160.36,3,8,6956,182
+a9e5770e-18f1-4f01-bc20-14539190386d,02-06-2024,Software Engineer,Indeed,Application Received,,,,,Emily Brown,,No,,,10,6003,48
+fb76e745-dcd7-4de0-8ab3-e0edad87275a,1/19/2024,Data Analyst,LinkedIn,Offer Made,5/18/2024,6/28/2024,,,John Doe,,No,,,5,5382,306
+a5ed6ca7-afbc-4cae-b04b-41b15462351c,05-09-2024,Business Analyst,CareerBuilder,Interview Scheduled,07-04-2024,,,,John Doe,,No,,,1,7819,361
+23e37309-75f7-486a-ba79-ef8b6415ab2e,6/30/2024,Product Manager,LinkedIn,Hired,07-03-2024,07-12-2024,7/15/2024,,Michael Johnson,15,Yes,1724.32,3,6,1995,256
+66a53542-259f-4271-9c2d-bcc1fa62c632,4/19/2024,Software Engineer,Referral,Application Received,,,,,Emily Brown,,No,,,9,5480,257
+696207c2-2acb-43d0-a0bb-64fd0418bcc8,01-05-2024,Software Engineer,Company Website,Interview Scheduled,5/21/2024,,,,Michael Johnson,,No,,,7,1123,439
+559d4ef7-f570-4f5d-800e-8ea382981a0a,3/16/2024,Software Engineer,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,10,242,108
+d4a44a61-b5a5-4b4a-a26e-1a6eba96ff96,5/14/2024,Data Analyst,Indeed,Under Review,,,,,Jane Smith,,No,,,5,2717,4
+6cf55af5-9739-4f97-afe2-592409fd1472,3/26/2024,Software Engineer,Indeed,Under Review,,,,,John Doe,,No,,,1,891,390
+dc61dab5-4211-43b1-930d-6ee16ba13c96,01-03-2024,UX Designer,LinkedIn,Under Review,,,,,Emily Brown,,No,,,0,3646,352
+40901b51-6994-48d8-a295-1d320eb6b239,07-05-2024,Product Manager,CareerBuilder,Interview Scheduled,07-11-2024,,,,Michael Johnson,,No,,,8,202,245
+6af840dc-002f-4bcf-8885-a9a98bc4d8b0,4/22/2024,Software Engineer,Company Website,Rejected,07-08-2024,,,07-10-2024,Emily Brown,,No,,,7,5958,223
+e3fa6b22-b8e7-48cb-b716-28d4b29f6a5a,02-01-2024,Business Analyst,Referral,Offer Made,06-04-2024,6/28/2024,,,John Doe,,No,,,0,2867,294
+2dc61913-d775-464d-82f8-18dfc8f1f315,01-09-2024,Product Manager,Indeed,Application Received,,,,,John Doe,,No,,,5,5030,386
+4581e9b8-515e-420d-9bfe-b57308ade214,6/24/2024,UX Designer,Indeed,Interview Scheduled,7/14/2024,,,,Jane Smith,,No,,,0,2545,218
+83cdf53e-bf83-42a5-bf91-19d2b37607ac,2/16/2024,Data Analyst,CareerBuilder,Hired,05-01-2024,5/25/2024,6/13/2024,,Emily Brown,118,Yes,4837.67,4,8,474,276
+377706fe-c5cc-4c9b-8fa7-5614684d21d4,6/20/2024,Business Analyst,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,10,8740,420
+4c1aad46-8218-4d8d-a87a-867419821997,2/19/2024,Business Analyst,Referral,Rejected,5/26/2024,,,5/30/2024,John Doe,,No,,,4,2460,311
+e96413eb-03b1-48d3-b916-7ec491236c1f,3/19/2024,UX Designer,CareerBuilder,Under Review,,,,,Emily Brown,,No,,,9,7140,112
+5f194a40-3bf0-4a12-8821-d3d629f7ac99,1/16/2024,UX Designer,Indeed,Under Review,,,,,John Doe,,No,,,9,3290,255
+775db0bf-d8fb-48a5-8d9c-95192ed7d4b3,07-02-2024,Software Engineer,Referral,Under Review,,,,,Michael Johnson,,No,,,4,9222,160
+f4f66bb7-e585-4bd1-a1e6-a7c28258e750,07-10-2024,Product Manager,LinkedIn,Under Review,,,,,Emily Brown,,No,,,5,5054,142
+0dbd117c-7d5b-4209-9df7-dd7c85c97029,6/17/2024,UX Designer,Indeed,Under Review,,,,,John Doe,,No,,,5,6187,466
+8d3893c1-dd94-406f-95c4-92a9419fe44f,6/25/2024,Data Analyst,LinkedIn,Under Review,,,,,John Doe,,No,,,6,7715,251
+efd8a102-4470-4f16-b2fd-b9c34f6367ed,3/27/2024,Data Analyst,CareerBuilder,Application Received,,,,,John Doe,,No,,,8,2136,86
+905e7bd4-957b-4977-bd90-c373d3d4c43e,5/13/2024,UX Designer,LinkedIn,Rejected,6/29/2024,,,07-11-2024,Emily Brown,,No,,,4,4478,237
+e06cc10a-c363-4c2f-a200-b0bebf9f7e69,4/14/2024,UX Designer,Referral,Hired,06-08-2024,07-02-2024,07-12-2024,,Michael Johnson,89,Yes,2033.64,2,0,7217,151
+83955c10-f913-4c9e-a6b2-4031e18249c5,07-11-2024,UX Designer,Referral,Application Received,,,,,Michael Johnson,,No,,,0,4633,64
+74a4beb7-be85-4d7c-a3da-39b4927e6420,04-05-2024,UX Designer,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,3,1547,12
+c6bc2c70-ad92-4c47-9920-41eb742fdad0,04-02-2024,Business Analyst,Referral,Application Received,,,,,John Doe,,No,,,8,3190,466
+dce5df49-e4b2-4bbe-b169-787e1ccd9566,1/23/2024,Business Analyst,CareerBuilder,Application Received,,,,,John Doe,,No,,,0,7916,42
+143554a7-95ec-4506-bd9e-501144549b3e,1/20/2024,Product Manager,Referral,Offer Made,02-05-2024,04-07-2024,,,Michael Johnson,,No,,,1,2282,214
+60c934dd-bcc7-42c2-9d5e-f668dec5b2c7,4/18/2024,Product Manager,Indeed,Interview Scheduled,5/13/2024,,,,Jane Smith,,No,,,10,2716,181
+9ca99802-ead7-4052-a531-57c69e3962b7,2/16/2024,UX Designer,Company Website,Interview Scheduled,03-05-2024,,,,Jane Smith,,No,,,10,4569,437
+e10e7125-5fb4-4236-96d0-b820762a5f60,04-12-2024,Business Analyst,LinkedIn,Under Review,,,,,Jane Smith,,No,,,2,9178,277
+a19083a3-fef2-4a40-83d7-3f40ff4d37bf,05-10-2024,Software Engineer,LinkedIn,Application Received,,,,,John Doe,,No,,,9,6987,118
+ab595ecd-9811-4f88-a9e2-df2e12419a88,03-10-2024,UX Designer,Indeed,Application Received,,,,,Jane Smith,,No,,,7,7539,259
+2f5945bc-2444-4e0d-86ee-e1c05b45948f,05-02-2024,Product Manager,Indeed,Interview Scheduled,6/15/2024,,,,Jane Smith,,No,,,9,3356,307
+1aa95293-28c8-49cd-a8fd-06b0220fb9ed,6/13/2024,Product Manager,LinkedIn,Application Received,,,,,John Doe,,No,,,6,8792,414
+9b8bfe3a-9857-4f1f-addb-59c69ad932e1,5/17/2024,Business Analyst,Indeed,Offer Made,5/21/2024,5/30/2024,,,Jane Smith,,No,,,8,4912,303
+865255e1-e668-46c9-996e-96717230315e,05-01-2024,Business Analyst,LinkedIn,Application Received,,,,,John Doe,,No,,,9,5568,165
+0b789718-471e-4d21-8c3a-6b1f56181044,5/22/2024,Software Engineer,Company Website,Interview Scheduled,6/14/2024,,,,Emily Brown,,No,,,5,3995,42
+ac8833fe-32f3-4f94-9ea7-d5948c50bdfb,04-05-2024,Business Analyst,LinkedIn,Under Review,,,,,Emily Brown,,No,,,9,540,443
+605a5e93-fdd7-4641-82ca-4b2df50b7e58,3/19/2024,Business Analyst,Indeed,Hired,05-03-2024,06-05-2024,06-06-2024,,Michael Johnson,79,Yes,4507.36,1,6,305,427
+1b7e6619-3587-416a-b23d-98b10ff5d23c,05-01-2024,Product Manager,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,2,4772,72
+13b5963e-7213-4e6e-9740-b9d46eebc9ad,4/29/2024,Product Manager,Indeed,Under Review,,,,,Jane Smith,,No,,,2,2777,335
+06940659-6ecd-43b8-8124-f74c1ffe062e,06-03-2024,Software Engineer,CareerBuilder,Offer Made,07-12-2024,7/14/2024,,,Michael Johnson,,No,,,2,5690,372
+a3443631-cc36-4cf5-84f6-714f8e04ef27,5/30/2024,UX Designer,Company Website,Under Review,,,,,Emily Brown,,No,,,7,4766,4
+f3478b93-94d0-4f54-a66a-5752209d575b,04-04-2024,Business Analyst,Referral,Application Received,,,,,Jane Smith,,No,,,9,4800,311
+7f4cf773-ca83-468b-8789-8f215a19bfe2,4/13/2024,UX Designer,Indeed,Rejected,4/19/2024,,,5/14/2024,Jane Smith,,No,,,10,412,142
+52ab8206-518b-4710-bd45-41f49a072c28,3/25/2024,Business Analyst,Indeed,Under Review,,,,,Emily Brown,,No,,,0,8726,475
+2f165b68-a67e-42c1-8d0b-37cfe4d80ed6,3/14/2024,Business Analyst,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,3,5150,356
+68dcf50d-6008-4b3d-bde3-0ed625c7d8cf,5/22/2024,Product Manager,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,6,7390,439
+af75a8b2-3b40-4cfa-84fa-0467fb1988b1,01-12-2024,Product Manager,CareerBuilder,Rejected,2/22/2024,,,5/19/2024,Jane Smith,,No,,,2,2669,216
+486c8074-64b0-4cb6-9ec5-796530a1982f,07-10-2024,Business Analyst,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,7,224,28
+4e9b98e1-bc8e-4f4e-9f97-db792ab346d8,3/14/2024,Data Analyst,Company Website,Application Received,,,,,Michael Johnson,,No,,,0,3026,269
+16fccacf-185a-44f3-9232-005f1e9f2703,05-11-2024,Software Engineer,Company Website,Application Received,,,,,Jane Smith,,No,,,1,7137,157
+c3cb4a1a-718a-4051-ac80-fccbc78e03ee,1/25/2024,Business Analyst,CareerBuilder,Under Review,,,,,John Doe,,No,,,0,5259,294
+88936cdf-a400-44e2-96ed-0bff3efa311f,4/16/2024,Business Analyst,CareerBuilder,Under Review,,,,,Emily Brown,,No,,,2,5959,219
+a1b542cf-0216-4267-93d0-3c4ca58b3cfa,04-04-2024,Product Manager,LinkedIn,Application Received,,,,,Emily Brown,,No,,,0,2388,54
+613e1dc6-3b19-4933-b5f3-041c14be542d,5/16/2024,Data Analyst,LinkedIn,Application Received,,,,,John Doe,,No,,,5,3030,301
+b7b7916f-754f-407c-bc02-35967ca973b2,04-03-2024,Data Analyst,Indeed,Application Received,,,,,Jane Smith,,No,,,4,6501,398
+41368656-7bd3-4111-a338-bf6387399b79,2/19/2024,Product Manager,Referral,Under Review,,,,,John Doe,,No,,,6,6647,10
+aff8663c-8bf8-4bf0-b02d-cafa968d8f92,6/24/2024,Product Manager,Referral,Rejected,07-04-2024,,,07-08-2024,Emily Brown,,No,,,6,9387,7
+929ae3d0-3e6f-4acc-a8e5-34aa0d7efe72,7/13/2024,Data Analyst,Referral,Application Received,,,,,Emily Brown,,No,,,3,4742,479
+03bcf1c6-a855-42d2-9851-9c4dd724890d,07-04-2024,Data Analyst,Referral,Interview Scheduled,07-04-2024,,,,Michael Johnson,,No,,,2,3885,96
+6e012836-18e3-4356-ab73-53d40014c122,04-07-2024,Data Analyst,LinkedIn,Under Review,,,,,Emily Brown,,No,,,4,5863,342
+6b72c1b2-aa62-435b-9903-52a2441c352e,2/28/2024,Software Engineer,Company Website,Interview Scheduled,04-09-2024,,,,Emily Brown,,No,,,0,3626,76
+9f4f9bb6-aa95-4ef2-b137-c73e3e945051,02-04-2024,Business Analyst,Company Website,Rejected,2/20/2024,,,05-12-2024,John Doe,,No,,,9,4648,276
+685c0577-237e-4f5d-a122-4d01fd6d9354,07-11-2024,UX Designer,Referral,Application Received,,,,,Emily Brown,,No,,,9,4398,228
+91689be9-1949-4115-a60c-ef7ac1af46f0,1/21/2024,Software Engineer,LinkedIn,Offer Made,06-06-2024,07-02-2024,,,John Doe,,No,,,2,4715,417
+c8193346-be07-4a45-820b-1f9747a2b91b,03-07-2024,UX Designer,Company Website,Application Received,,,,,Jane Smith,,No,,,1,6953,241
+d5c010ce-a454-46fc-a972-8ea0e0f3d2d0,02-07-2024,Product Manager,Referral,Interview Scheduled,3/15/2024,,,,Emily Brown,,No,,,1,4419,34
+2ceb8a44-a55c-4058-9b07-2f24f3d0ae01,7/14/2024,Data Analyst,Referral,Rejected,7/15/2024,,,7/15/2024,John Doe,,No,,,10,5263,284
+bd474e47-9f09-47dc-82e0-f6cce508e39b,05-07-2024,UX Designer,LinkedIn,Application Received,,,,,John Doe,,No,,,3,7491,37
+32e163f5-9333-4b8f-a01a-762e8daf42b4,1/29/2024,Data Analyst,CareerBuilder,Interview Scheduled,4/13/2024,,,,Jane Smith,,No,,,10,1954,437
+85eb38c9-fb60-4ab8-907f-1471af1ef140,04-11-2024,Software Engineer,Indeed,Under Review,,,,,Jane Smith,,No,,,6,5096,63
+7683093c-9031-4561-8552-ab73865c6ba1,06-01-2024,Product Manager,Indeed,Interview Scheduled,07-12-2024,,,,Jane Smith,,No,,,0,4184,264
+d83fcc97-7236-4cc3-9802-8edd7b485a11,02-07-2024,Business Analyst,Company Website,Offer Made,07-02-2024,07-10-2024,,,Emily Brown,,No,,,9,1740,243
+aa00f97b-991e-431a-a5cc-c672108f21ea,3/13/2024,UX Designer,Indeed,Hired,5/31/2024,06-07-2024,07-02-2024,,Emily Brown,111,Yes,1991.04,1,3,5919,57
+ec9b935a-17a6-423a-a5a8-777061705ba4,01-05-2024,Product Manager,Company Website,Interview Scheduled,4/17/2024,,,,Emily Brown,,No,,,10,3377,15
+c907a80d-f08d-4eb1-9c6c-fbf190212094,6/29/2024,Business Analyst,Indeed,Application Received,,,,,John Doe,,No,,,10,7951,310
+b0f5b359-804e-453a-be71-989593407bbc,01-03-2024,Business Analyst,LinkedIn,Offer Made,1/26/2024,2/22/2024,,,John Doe,,No,,,5,2584,181
+54259eb8-c0b6-4e82-aa0c-381c409a9517,6/13/2024,UX Designer,Indeed,Under Review,,,,,Jane Smith,,No,,,10,2851,372
+9effd2ad-579e-40e9-afd7-cba77c1038df,06-10-2024,Business Analyst,CareerBuilder,Interview Scheduled,07-07-2024,,,,John Doe,,No,,,5,1482,249
+0ab681ae-b4d2-4494-a93a-db5de702bf86,05-01-2024,Business Analyst,Company Website,Application Received,,,,,Emily Brown,,No,,,6,1412,226
+c8fed432-4062-4516-a376-8a926e774a41,05-10-2024,Business Analyst,Referral,Application Received,,,,,Michael Johnson,,No,,,1,8242,491
+5509fdbc-adc1-40ef-bd12-d5051233af3d,04-06-2024,Software Engineer,LinkedIn,Application Received,,,,,John Doe,,No,,,4,552,225
+69141a9f-7d63-4007-a435-62798d700e6b,3/31/2024,Business Analyst,Indeed,Hired,6/22/2024,07-03-2024,07-08-2024,,Jane Smith,99,Yes,3497.95,5,9,1189,426
+45f548ec-8bee-4876-919e-17a37ccf49b3,2/26/2024,Software Engineer,CareerBuilder,Offer Made,07-06-2024,7/14/2024,,,Michael Johnson,,No,,,2,3308,156
+e09b8864-bf5f-4a9d-97ef-e994829f5d61,02-08-2024,Data Analyst,Referral,Application Received,,,,,Emily Brown,,No,,,8,8640,411
+a23924b7-26e9-454c-90ee-154689357493,03-02-2024,Business Analyst,Referral,Under Review,,,,,Michael Johnson,,No,,,4,7580,239
+c82fa646-7bf6-44ff-974b-743fc938b249,3/31/2024,UX Designer,Indeed,Application Received,,,,,John Doe,,No,,,1,248,184
+fedad4eb-7eb5-4baf-878a-692ba2bb05b4,05-07-2024,Data Analyst,Indeed,Under Review,,,,,Jane Smith,,No,,,1,8512,259
+af41586b-9d76-42d2-b17b-07068c94da39,1/24/2024,Data Analyst,LinkedIn,Under Review,,,,,Jane Smith,,No,,,2,8013,319
+394b575c-e1fd-4d31-9124-c4d3cabf7cb5,05-02-2024,Software Engineer,Indeed,Interview Scheduled,5/15/2024,,,,John Doe,,No,,,1,6535,388
+85836682-ac47-40f1-84f1-b54ad027320e,07-03-2024,Data Analyst,LinkedIn,Application Received,,,,,Jane Smith,,No,,,5,5627,269
+afc3a50b-8152-4a62-b0bf-ebc06dfa7391,04-10-2024,Product Manager,Company Website,Interview Scheduled,05-11-2024,,,,Michael Johnson,,No,,,1,1138,75
+9dc983eb-2b52-45fe-b899-3397fadab19d,1/21/2024,Data Analyst,Company Website,Rejected,05-03-2024,,,06-09-2024,Jane Smith,,No,,,0,7011,369
+633e58eb-94e3-411b-87cd-9a774e9ac4aa,06-03-2024,Product Manager,LinkedIn,Application Received,,,,,John Doe,,No,,,6,4471,188
+cafbc948-9a53-4889-966c-e9825961e91a,01-02-2024,UX Designer,Referral,Application Received,,,,,Michael Johnson,,No,,,8,4692,387
+6e422277-89b3-4589-86e6-ead2a189a6f5,3/20/2024,Product Manager,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,6,1687,278
+d0b09c60-f636-4d33-a3ac-a619a2df796d,06-02-2024,Business Analyst,Referral,Under Review,,,,,Emily Brown,,No,,,7,8395,162
+f544a1c6-5e25-46f6-b0c1-6dd1709d1caf,2/26/2024,Data Analyst,Indeed,Under Review,,,,,Michael Johnson,,No,,,7,693,194
+f4cb5de2-2a3c-436a-a086-3b3facf54c2f,5/29/2024,Product Manager,Indeed,Under Review,,,,,Michael Johnson,,No,,,3,6429,72
+59b86d87-592a-4818-b262-3c336ff7bc3c,4/19/2024,Product Manager,Company Website,Under Review,,,,,John Doe,,No,,,7,226,483
+b52cef19-43ca-4bfd-8328-a77a6b9cb66f,04-02-2024,UX Designer,CareerBuilder,Application Received,,,,,John Doe,,No,,,0,1943,144
+684fc085-f8f2-411d-bf7e-8f43b006f9d2,5/14/2024,Software Engineer,Referral,Under Review,,,,,John Doe,,No,,,7,3099,456
+9c1fa625-c58c-4a46-ab27-8ed19932752a,7/13/2024,Product Manager,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,0,9370,224
+abd3a7ae-4e11-441a-bced-4016be7d1cef,07-11-2024,Software Engineer,Company Website,Interview Scheduled,7/15/2024,,,,Emily Brown,,No,,,2,9989,230
+4be74dd0-5866-4bf7-910a-1704524c0552,4/27/2024,Software Engineer,Company Website,Application Received,,,,,Michael Johnson,,No,,,7,845,445
+cbd84933-ae2d-47c0-8ada-aec880f8e694,6/26/2024,Software Engineer,Indeed,Offer Made,6/26/2024,7/15/2024,,,Michael Johnson,,No,,,1,3841,148
+bf6db366-a87f-4ad0-b59c-ba14784d41b0,5/30/2024,Data Analyst,Company Website,Under Review,,,,,Emily Brown,,No,,,2,3381,403
+c851471a-8cbc-4c92-a5d1-f022481477f8,04-12-2024,Product Manager,LinkedIn,Interview Scheduled,06-12-2024,,,,John Doe,,No,,,2,635,43
+3a009034-0bfe-4ead-bb2a-a38d59921342,7/13/2024,UX Designer,Referral,Interview Scheduled,7/15/2024,,,,Michael Johnson,,No,,,4,3092,14
+4c97a9de-701d-4072-928d-e6a7c74040cb,04-11-2024,UX Designer,LinkedIn,Under Review,,,,,Michael Johnson,,No,,,10,7568,495
+cee56f05-1132-4b89-b0d5-73e685bd6bb7,02-07-2024,Data Analyst,CareerBuilder,Offer Made,03-08-2024,5/27/2024,,,Michael Johnson,,No,,,7,1136,424
+33e1b7c0-0122-407d-965f-02a684dff89d,2/23/2024,Business Analyst,LinkedIn,Application Received,,,,,Jane Smith,,No,,,8,9837,244
+cbd7c12a-f8f9-4784-bcc7-d8064d34945d,5/23/2024,Software Engineer,LinkedIn,Offer Made,07-11-2024,07-12-2024,,,Jane Smith,,No,,,7,6408,384
+dda20828-81fb-4745-ab4e-bad9c09aeea9,3/13/2024,Software Engineer,LinkedIn,Application Received,,,,,Emily Brown,,No,,,0,9170,286
+5bce049a-e0d5-4be1-928f-1959bf0fae10,07-04-2024,Data Analyst,LinkedIn,Offer Made,07-05-2024,7/13/2024,,,Jane Smith,,No,,,8,8888,83
+e81cb6c9-4f7e-4ed6-9ce4-a47f0e728f9b,01-12-2024,UX Designer,Company Website,Offer Made,5/31/2024,7/13/2024,,,Jane Smith,,No,,,3,9485,67
+ce0c7165-bf6d-402c-b9d7-88f81a7cb60d,03-10-2024,Product Manager,Company Website,Interview Scheduled,5/18/2024,,,,Michael Johnson,,No,,,2,1568,15
+967e1063-c0ec-4318-a76b-ab926bd3d957,02-02-2024,Data Analyst,Indeed,Offer Made,3/16/2024,3/16/2024,,,Emily Brown,,No,,,2,628,346
+157918cf-d552-4fc8-8dbd-964004c1b195,01-06-2024,Product Manager,Referral,Interview Scheduled,4/28/2024,,,,Jane Smith,,No,,,8,6835,496
+54dbd9cf-f8c1-45c9-a3fb-2117cfd95789,6/30/2024,Software Engineer,Company Website,Hired,07-11-2024,7/14/2024,7/15/2024,,John Doe,15,Yes,2579.29,1,5,1588,243
+8f825499-cc8a-4e3a-8a61-40420726f952,06-05-2024,Product Manager,CareerBuilder,Application Received,,,,,Jane Smith,,No,,,2,6977,325
+069b3d95-021a-41cc-bd2c-ce3ceb4afee4,3/21/2024,UX Designer,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,4,3269,67
+b046ada6-8b60-4f89-968b-100b7051eae0,6/21/2024,UX Designer,Referral,Application Received,,,,,Michael Johnson,,No,,,0,3581,293
+8ceca08b-2931-4028-bdd4-be31f440188a,5/18/2024,UX Designer,Indeed,Offer Made,6/16/2024,6/20/2024,,,Jane Smith,,No,,,5,5593,83
+429fff5b-508a-409f-b44f-9aa1d53a28fb,03-08-2024,Business Analyst,Indeed,Interview Scheduled,06-05-2024,,,,Michael Johnson,,No,,,10,6496,230
+96d2b8b6-117a-4c49-88f2-7a0a1206e84d,1/30/2024,Business Analyst,Referral,Interview Scheduled,04-05-2024,,,,Michael Johnson,,No,,,8,1640,224
+103ae158-edb8-490f-a5f8-1e3778757c4e,6/29/2024,Business Analyst,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,7,3293,220
+cd236b54-06da-4b18-aa2d-ffd7d127b18d,5/29/2024,UX Designer,Company Website,Under Review,,,,,Jane Smith,,No,,,7,1359,288
+8fc9dc6e-4cfe-4c20-9b5f-8aeae9f0d3b5,06-07-2024,UX Designer,Company Website,Interview Scheduled,6/17/2024,,,,Michael Johnson,,No,,,2,5137,390
+29c079c6-221e-4bc3-a13a-236ebe040b37,04-01-2024,Software Engineer,LinkedIn,Rejected,6/30/2024,,,07-04-2024,Emily Brown,,No,,,10,3537,44
+6759cd4f-f757-4c5e-8f04-cdf6287e6bd4,4/21/2024,Business Analyst,CareerBuilder,Under Review,,,,,John Doe,,No,,,8,8331,430
+bea8dabf-f644-44f5-97e5-c42f52b18be4,03-10-2024,Business Analyst,Company Website,Application Received,,,,,John Doe,,No,,,1,4764,237
+ae3f5812-121f-4c93-aca6-bf7d084910b1,3/15/2024,UX Designer,Company Website,Hired,6/16/2024,6/28/2024,07-07-2024,,John Doe,114,Yes,2420.04,1,0,2120,101
+34cb5ee3-daaa-4983-9d1b-9d3b2c581a85,2/20/2024,Data Analyst,Company Website,Interview Scheduled,5/24/2024,,,,Jane Smith,,No,,,2,2072,281
+037635a7-15f5-4cb1-963f-ae05ea08a060,02-06-2024,UX Designer,CareerBuilder,Application Received,,,,,Emily Brown,,No,,,2,5673,359
+53257909-cbd0-4868-812a-84f7b1bce5bb,07-10-2024,Data Analyst,Referral,Interview Scheduled,07-11-2024,,,,Michael Johnson,,No,,,6,3904,488
+ea770075-d251-4563-a21d-45a021307b59,5/28/2024,Product Manager,Company Website,Offer Made,07-02-2024,7/15/2024,,,Jane Smith,,No,,,7,1121,228
+c0551b4d-d178-4c0d-948b-1f009b5819f9,2/13/2024,Product Manager,LinkedIn,Hired,05-10-2024,7/14/2024,7/15/2024,,John Doe,153,Yes,2385.65,4,4,1774,51
+01a7209b-0001-4480-b78d-6b46666b3752,03-10-2024,Software Engineer,Indeed,Interview Scheduled,6/18/2024,,,,Emily Brown,,No,,,8,656,398
+dc758520-355f-48c2-befa-a422bb5bf3f4,05-11-2024,Business Analyst,LinkedIn,Offer Made,6/22/2024,07-10-2024,,,Michael Johnson,,No,,,8,2153,278
+2a4cd325-545f-472f-b983-186040cdabb7,03-05-2024,Product Manager,Indeed,Hired,05-03-2024,05-03-2024,5/15/2024,,John Doe,71,Yes,707.71,2,7,3391,198
+b05410dc-9a22-4b0e-ae5b-8c7af723eaab,01-03-2024,Product Manager,Referral,Application Received,,,,,Emily Brown,,No,,,7,6008,2
+37056a32-c7b7-4e66-b8b1-1fafc4d171b9,6/22/2024,Product Manager,CareerBuilder,Under Review,,,,,Michael Johnson,,No,,,8,4124,407
+3a6fa582-2261-452f-ba1b-e175b5ee61b0,3/19/2024,Product Manager,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,0,8502,474
+02b7a470-c6e0-4be0-b565-52860420145e,02-08-2024,Data Analyst,Referral,Offer Made,6/23/2024,07-05-2024,,,Jane Smith,,No,,,8,9797,88
+c2d4debb-6bd8-4123-9fa4-10f07c1edf39,03-02-2024,Product Manager,Referral,Hired,3/22/2024,6/24/2024,6/28/2024,,John Doe,118,Yes,2094.57,4,10,1523,362
+68b22f31-fc1b-476e-a72f-508e288bd3d2,5/30/2024,Data Analyst,Indeed,Application Received,,,,,Jane Smith,,No,,,6,8610,369
+daab37a9-efc2-4c32-8987-e6be83202320,5/15/2024,Data Analyst,CareerBuilder,Interview Scheduled,5/21/2024,,,,Emily Brown,,No,,,4,9016,287
+f9193980-dd66-4df5-8074-388891f7a6fd,5/16/2024,Data Analyst,Referral,Under Review,,,,,John Doe,,No,,,5,882,395
+e5b47634-32cd-4d86-ad83-7ad951c64c0b,7/14/2024,Product Manager,Indeed,Application Received,,,,,Jane Smith,,No,,,5,9571,421
+ab434b16-f7aa-4ff2-ab0b-70f2cc83ccd4,06-12-2024,Software Engineer,Company Website,Interview Scheduled,6/16/2024,,,,John Doe,,No,,,1,8374,36
+0388a402-1de7-408d-b9e8-f551638a2df2,4/19/2024,Product Manager,Referral,Under Review,,,,,Jane Smith,,No,,,4,1239,365
+2b1e502f-47fa-42ba-bbb7-3b717ea02a5f,3/26/2024,Product Manager,CareerBuilder,Interview Scheduled,04-01-2024,,,,Emily Brown,,No,,,5,9906,284
+fc69c0de-fec7-4b0e-97b3-02969f17309b,2/23/2024,UX Designer,LinkedIn,Application Received,,,,,Jane Smith,,No,,,3,1102,448
+bb1a8f06-0a89-4b88-9661-748858e3b381,4/13/2024,Product Manager,CareerBuilder,Hired,07-09-2024,7/14/2024,7/15/2024,,John Doe,93,Yes,4900.81,5,4,8375,436
+3746cecc-0b3f-45f5-8e1d-9dea9079e47f,03-08-2024,Data Analyst,CareerBuilder,Under Review,,,,,Jane Smith,,No,,,10,2943,264
+9341d86e-c45d-4477-b5d7-d699d122a402,3/25/2024,Software Engineer,Company Website,Interview Scheduled,3/28/2024,,,,John Doe,,No,,,3,8678,308
+70f9325a-cf1a-4718-aa55-5c1c29cb9806,6/26/2024,Software Engineer,Company Website,Offer Made,07-12-2024,7/14/2024,,,Jane Smith,,No,,,2,4398,487
+7f41adfc-2b44-46b4-b2b1-ec78b766b0de,7/13/2024,Product Manager,CareerBuilder,Hired,7/15/2024,7/15/2024,7/15/2024,,Jane Smith,2,Yes,3122.72,1,9,5250,36
+065d1031-f4bb-4f7a-a036-b70e5c84d3df,03-11-2024,Software Engineer,CareerBuilder,Application Received,,,,,Michael Johnson,,No,,,0,594,237
+11b254d8-7403-4a95-9353-dd59924061c4,03-09-2024,Business Analyst,Company Website,Application Received,,,,,Michael Johnson,,No,,,10,9840,464
+a19ae371-cc91-482d-87f3-320b73cde4c8,1/26/2024,Software Engineer,LinkedIn,Interview Scheduled,6/28/2024,,,,Michael Johnson,,No,,,2,6161,484
+c42ac29b-a230-4f0d-bc3e-b50a7c69b28a,3/15/2024,UX Designer,Indeed,Interview Scheduled,5/13/2024,,,,Michael Johnson,,No,,,10,2022,60
+fe46c535-07b7-41de-8ea0-f7262ae2c291,04-06-2024,Product Manager,Referral,Under Review,,,,,Emily Brown,,No,,,4,4681,213
+dcd77748-0e2a-4248-bca4-f7c329512414,06-02-2024,Software Engineer,Company Website,Application Received,,,,,Emily Brown,,No,,,8,1864,61
+36f5f8e5-1194-4f61-b04b-ac2443968fa6,5/13/2024,Software Engineer,Indeed,Under Review,,,,,Jane Smith,,No,,,10,4573,159
+e27a59d3-2f25-47ac-8c76-584be3459c04,2/25/2024,Business Analyst,CareerBuilder,Under Review,,,,,Michael Johnson,,No,,,8,7873,253
+30af0d1d-8eb5-40e7-b05a-d8d392bf7209,2/26/2024,Data Analyst,LinkedIn,Under Review,,,,,Michael Johnson,,No,,,7,1954,95
+2a87e1f8-579e-4b3a-ad18-3a47bd0e5d19,02-05-2024,UX Designer,Indeed,Application Received,,,,,Emily Brown,,No,,,3,6477,44
+517a0a80-dea5-4061-b3cb-26f9116b7d15,5/15/2024,Data Analyst,Company Website,Application Received,,,,,Michael Johnson,,No,,,3,2298,125
+c533f0cf-863c-479e-8605-97ea2d49c967,01-10-2024,Product Manager,Company Website,Interview Scheduled,2/14/2024,,,,Michael Johnson,,No,,,0,3640,42
+e335ef17-d20d-4eae-94ea-b9f49d7fb666,06-08-2024,Data Analyst,Indeed,Offer Made,6/27/2024,07-06-2024,,,Jane Smith,,No,,,7,637,41
+f88beb5d-ac22-4746-96d1-72a4003f9bbb,5/22/2024,Software Engineer,CareerBuilder,Offer Made,6/18/2024,6/24/2024,,,Michael Johnson,,No,,,10,2715,67
+0587ab17-d9d2-4f14-a459-2eed89bfa182,07-10-2024,Product Manager,Referral,Application Received,,,,,Emily Brown,,No,,,5,1962,114
+ca71a215-820f-4ed7-96d4-3a65b51e42c2,06-01-2024,Product Manager,Company Website,Interview Scheduled,7/14/2024,,,,Michael Johnson,,No,,,9,3136,436
+9ba8cf8d-e3a2-4fcd-8702-e63ca932e161,6/26/2024,Product Manager,CareerBuilder,Hired,07-06-2024,07-11-2024,7/13/2024,,Michael Johnson,17,Yes,3724.33,1,8,4957,8
+8be3eeaf-8bdb-41d2-83e3-14d67a5ebbe5,03-02-2024,Business Analyst,CareerBuilder,Rejected,5/18/2024,,,5/20/2024,Emily Brown,,No,,,7,3737,313
+b6b6377d-bbb2-4b74-a75d-554ab76aa28e,1/16/2024,UX Designer,Company Website,Application Received,,,,,Emily Brown,,No,,,9,3649,275
+c22afe10-0155-4f1b-92e4-c3b39ce38834,03-05-2024,Product Manager,Indeed,Interview Scheduled,06-01-2024,,,,Jane Smith,,No,,,3,5736,227
+603a80e3-0a65-4387-befa-345408dd4210,1/24/2024,UX Designer,LinkedIn,Application Received,,,,,Emily Brown,,No,,,2,6325,326
+31ea679f-1261-4810-867d-9dae3d72b195,1/17/2024,Product Manager,Referral,Application Received,,,,,Jane Smith,,No,,,2,1456,163
+ebba7aa7-98bf-44c3-a9a7-cdae4b5cbe60,4/14/2024,Software Engineer,CareerBuilder,Under Review,,,,,Emily Brown,,No,,,2,2545,234
+69d660c4-c0fc-4948-935f-c76298280e6a,4/17/2024,Software Engineer,CareerBuilder,Interview Scheduled,6/28/2024,,,,Emily Brown,,No,,,2,1400,164
+be81b416-d02d-43ec-8056-b943df29049a,03-05-2024,UX Designer,Referral,Under Review,,,,,John Doe,,No,,,10,2032,466
+973409d1-afcd-4691-9cc5-f0fe67e33b57,06-03-2024,Product Manager,CareerBuilder,Hired,6/20/2024,6/22/2024,6/29/2024,,Jane Smith,26,Yes,869.2,5,10,6570,3
+998a0994-edf7-4b7e-bb66-3d0dad387f13,2/19/2024,Data Analyst,Referral,Under Review,,,,,Michael Johnson,,No,,,8,5166,112
+1f8bfd55-8a40-4057-9115-dbb16280213d,5/25/2024,Business Analyst,CareerBuilder,Under Review,,,,,Emily Brown,,No,,,7,9058,258
+f8d2eee9-a67e-418b-9ab2-19b7762667a8,3/16/2024,Product Manager,Company Website,Interview Scheduled,06-12-2024,,,,John Doe,,No,,,1,4277,148
+e67a66fd-9125-4b87-857c-92a05ca6c434,1/25/2024,UX Designer,LinkedIn,Interview Scheduled,04-01-2024,,,,John Doe,,No,,,9,7037,159
+60bc9526-4b42-4ebd-a63e-ebb478ee67c6,5/24/2024,Data Analyst,Company Website,Application Received,,,,,John Doe,,No,,,0,8260,7
+e27d9db7-bae6-40c7-bf81-bca8a2b5461e,5/19/2024,Data Analyst,Referral,Interview Scheduled,5/19/2024,,,,Emily Brown,,No,,,4,8749,477
+cf48c6fd-a8a9-43ac-a3c3-011d5239aa7b,4/21/2024,UX Designer,LinkedIn,Rejected,5/18/2024,,,5/19/2024,Emily Brown,,No,,,9,7755,214
+729ca18b-1291-40ff-8fa8-77f7e3e0d6e4,02-04-2024,Business Analyst,Referral,Offer Made,2/18/2024,6/28/2024,,,Emily Brown,,No,,,3,3872,207
+a2879401-9517-4321-b4b0-8cd9c939f99e,2/18/2024,Business Analyst,Indeed,Offer Made,6/16/2024,07-07-2024,,,Jane Smith,,No,,,8,7539,289
+6f047f0f-b01a-43db-84a0-9dbe869fa37d,3/24/2024,UX Designer,LinkedIn,Application Received,,,,,Michael Johnson,,No,,,8,548,245
