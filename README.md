@@ -23,15 +23,15 @@ This project analyzes a dataset of 1,000+ candidates to identify inefficiencies 
 # Key Insights & Visuals
 
 ### 1. Funnel Drop-off Analysis
-![Funnel Analysis](images/funnel_dropoff_analysis.png)
+![Funnel Analysis](Images/funnel_dropoff_analysis.png)
 **Brief:** This result demonstrates the 'leaky' stages of our recruitment process. By calculating the percentage of candidates lost between the Interview and Offer stages, we can identify exactly where the candidate experience might be failing.
 
 ### 2. Education vs. Offer Acceptance
-![Education Audit](images/education_bias_audit.png)
+![Education Audit](Images/education_bias_audit.png)
 **Brief:** This table cross-references educational background with the likelihood of accepting a job offer. It signals a need to re-evaluate our senior-level compensation packages if higher-tier candidates are declining offers.
 
 ### 3. Recruiter Performance Ranking
-![Recruiter Ranking](images/recruiter_efficiency_ranking.png)
+![Recruiter Ranking](Images/recruiter_efficiency_ranking.png)
 **Brief:** Using the `RANK()` function, this output benchmarks our recruiting team based on their 'Time-to-Hire.'
 
 ---
