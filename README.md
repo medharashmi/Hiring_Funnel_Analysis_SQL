@@ -19,6 +19,25 @@ This project provides a data-driven analysis of a multi-stage recruitment funnel
 * **images/**: Screenshots of key query results.
 
 ---
+# **Database Schema**
+The analysis is based on a structured dataset consisting of 1,000 candidate records. Below is the schema definition, including engineered columns for bias and diversity auditing.
+
+| Column Name | Data Type | Description |
+| :--- | :--- | :--- |
+| **CandidateID** | `VARCHAR` | Unique identifier for each applicant. |
+| **ApplicationDate** | `DATE` | The date the application was received. |
+| **Position** | `VARCHAR` | The job role applied for (e.g., Data Analyst). |
+| **Source** | `VARCHAR` | The acquisition channel (e.g., LinkedIn, Referral). |
+| **Status** | `VARCHAR` | Current stage (e.g., Under Review, Interviewed). |
+| **Gender** | `VARCHAR` | Self-identified gender for bias auditing. |
+| **Education** | `VARCHAR` | Highest degree attained (e.g., Bachelor’s, Master’s). |
+| **Recruiter** | `VARCHAR` | Internal team member assigned to the candidate. |
+| **TimeToHire** | `INTEGER` | Total days from application to final decision. |
+| **OfferAccepted** | `BOOLEAN` | Whether the candidate accepted the offer (Yes/No). |
+| **HireCost** | `NUMERIC` | Financial investment for candidate acquisition. |
+| **PerformanceRating** | `INTEGER` | Interview assessment score (Scale 1-5). |
+| **CandidateNPS** | `INTEGER` | Net Promoter Score reflecting candidate experience. |
+
 
 # Key Insights & Visuals
 
