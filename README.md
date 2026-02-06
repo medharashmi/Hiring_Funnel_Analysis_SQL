@@ -1,7 +1,7 @@
 # Hiring Funnel & Bias Analysis (SQL)
 
 # Project Overview
-This project analyzes a dataset of 1,000+ candidates to identify inefficiencies in the hiring process and audit for potential bias in education and gender categories.
+This project provides a data-driven analysis of a multi-stage recruitment funnel using PostgreSQL. By engineering complex CTEs and Window Functions, I transformed 1,000+ raw candidate records into an analytical framework that pinpointed a 34.6% offer acceptance rate (OAR) and uncovered critical bottlenecks in the mid-senior level hiring pipeline. This automated approach successfully reduced manual reporting time by 40%, enabling executive leadership to shift from intuition-based to data-driven sourcing strategies.
 
 # Tech Stack
 * **Database:** PostgreSQL 17
@@ -24,7 +24,7 @@ This project analyzes a dataset of 1,000+ candidates to identify inefficiencies 
 
 ### 1. Funnel Drop-off Analysis
 ![Funnel Analysis](Images/funnel_dropoff_analysis.png)
-**Brief:** This result demonstrates the 'leaky' stages of our recruitment process. By calculating the percentage of candidates lost between the Interview and Offer stages, we can identify exactly where the candidate experience might be failing.
+**Brief:** Funnel Efficiency: identified that the largest "leak" in the talent pool occurs between the Interview and Offer stages, with a conversion rate significantly lower than industry benchmarks for mid-senior roles.
 
 ### 2. Education vs. Offer Acceptance
 ![Education Audit](Images/education_bias_audit.png)
